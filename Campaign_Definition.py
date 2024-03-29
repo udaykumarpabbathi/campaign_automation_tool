@@ -31,7 +31,7 @@ from ast import literal_eval
 from pathlib import Path
 
 
-openai_api_key =  st.secrets['openai_api_key']
+openai_api_key = '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'
 
 
 
@@ -165,10 +165,6 @@ def get_llm(temperature,max_gen_tokens, selected_model):
         openai_api_key=openai_api_key)
         
 
-# def save_data_to_Chroma(docs):
-#     embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
-#     db = Chroma.from_documents(docs, embeddings)
-#     return db
 
 def retrieve_camp_definition(text, llm):
     text=text
@@ -206,8 +202,8 @@ def main():
     csv_file_path='req_data.csv'
     camp_def_file_path='camp_def.txt'
 
-    st.set_page_config(page_title='CampAI', page_icon=icon, layout='wide')
-    st.title('CampAIgn Automation Tool')
+    st.set_page_config(page_title='IMPACT.ai', page_icon=icon, layout='wide')
+    st.title('IMPACT.ai')
 
     
 
