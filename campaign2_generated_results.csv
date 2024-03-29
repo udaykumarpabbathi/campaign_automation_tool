@@ -1,0 +1,1837 @@
+Customer ID,Size,Color,Season,Category,email_engagement_status,activation_status,Previous Purchases,Purchase Amount (USD),Discount Applied,Promo Code Used,Frequency of Purchases,Age,Cluster
+1,l,gray,winter,clothing,clicked,purchased,14,53,yes,yes,fortnightly,55,0
+10,m,pink,spring,accessories,clicked,purchased,4,31,yes,yes,quarterly,57,0
+5,m,turquoise,spring,clothing,clicked,only_searched,31,49,yes,yes,annually,45,2
+6,m,white,summer,footwear,clicked,only_searched,14,20,yes,yes,weekly,46,0
+8,l,charcoal,winter,clothing,clicked,purchased,19,34,yes,yes,weekly,27,0
+9,l,silver,summer,outerwear,clicked,purchased,8,97,yes,yes,annually,26,3
+12,s,olive,winter,clothing,clicked,only_searched,10,68,yes,yes,fortnightly,30,3
+19,s,black,summer,clothing,clicked,only_searched,17,48,yes,yes,weekly,52,0
+22,m,charcoal,winter,clothing,clicked,only_searched,22,62,yes,yes,quarterly,31,3
+23,m,peach,summer,clothing,clicked,only_searched,32,37,yes,yes,annually,56,2
+24,xl,white,winter,clothing,clicked,purchased,40,88,yes,yes,weekly,31,1
+27,m,red,spring,accessories,not_click,,13,20,yes,yes,annually,38,0
+28,l,cyan,summer,clothing,clicked,only_searched,7,56,yes,yes,every 3 months,56,0
+30,s,black,fall,clothing,not_open,not_activated,14,48,yes,yes,weekly,31,0
+32,l,brown,winter,clothing,clicked,added_to_cart,45,79,yes,yes,monthly,33,1
+33,m,silver,summer,outerwear,clicked,only_searched,37,67,yes,yes,annually,36,1
+48,m,charcoal,winter,accessories,clicked,purchased,36,54,yes,yes,weekly,55,2
+49,m,orange,summer,clothing,clicked,purchased,38,55,yes,yes,monthly,42,2
+52,xl,gray,winter,clothing,not_click,,7,59,yes,yes,quarterly,59,3
+53,m,green,summer,clothing,clicked,only_searched,26,20,yes,yes,weekly,42,0
+56,m,lavender,winter,outerwear,not_open,not_activated,49,28,yes,yes,annually,40,2
+57,xl,brown,summer,accessories,not_click,,46,73,yes,yes,weekly,41,1
+61,l,brown,summer,clothing,not_click,,17,37,yes,yes,weekly,50,0
+62,m,orange,winter,accessories,not_open,not_activated,21,68,yes,yes,every 3 months,55,3
+63,s,magenta,spring,footwear,clicked,purchased,31,21,yes,yes,fortnightly,30,2
+64,l,lavender,winter,accessories,clicked,added_to_cart,43,79,yes,yes,weekly,33,1
+67,s,magenta,winter,clothing,not_open,not_activated,3,94,yes,yes,every 3 months,31,3
+69,l,silver,summer,accessories,clicked,added_to_cart,21,46,yes,yes,every 3 months,57,0
+70,s,cyan,summer,accessories,not_click,,5,70,yes,yes,weekly,48,3
+72,l,gold,summer,clothing,clicked,only_searched,34,48,yes,yes,annually,36,2
+74,m,teal,spring,clothing,clicked,purchased,43,85,yes,yes,bi-weekly,48,1
+75,l,violet,spring,accessories,clicked,only_searched,3,58,yes,yes,monthly,49,0
+77,s,teal,summer,accessories,not_open,not_activated,32,43,yes,yes,monthly,50,2
+79,m,maroon,spring,clothing,clicked,purchased,50,91,yes,yes,fortnightly,50,1
+84,m,turquoise,summer,clothing,not_click,,34,40,yes,yes,weekly,36,2
+88,m,green,fall,footwear,clicked,only_searched,44,53,yes,yes,fortnightly,52,2
+90,xl,pink,fall,outerwear,clicked,only_searched,15,83,yes,yes,quarterly,47,3
+94,m,purple,fall,clothing,clicked,only_searched,46,62,yes,yes,weekly,37,1
+95,s,silver,spring,clothing,not_open,not_activated,28,76,yes,yes,weekly,58,1
+96,l,pink,fall,footwear,clicked,added_to_cart,48,100,yes,yes,monthly,37,1
+97,s,gold,spring,accessories,clicked,purchased,43,73,yes,yes,every 3 months,32,1
+103,l,violet,winter,clothing,clicked,only_searched,35,67,yes,yes,quarterly,51,1
+108,l,olive,winter,footwear,not_click,,46,67,yes,yes,fortnightly,28,1
+110,m,violet,spring,clothing,not_click,,43,85,yes,yes,fortnightly,58,1
+112,l,purple,summer,accessories,clicked,purchased,9,75,yes,yes,annually,26,3
+113,m,red,spring,accessories,clicked,only_searched,28,65,yes,yes,bi-weekly,37,1
+114,l,maroon,winter,accessories,not_open,not_activated,20,54,yes,yes,quarterly,44,0
+118,l,yellow,summer,footwear,clicked,only_searched,29,32,yes,yes,fortnightly,50,2
+119,l,orange,fall,clothing,clicked,added_to_cart,27,45,yes,yes,bi-weekly,50,2
+120,m,orange,fall,outerwear,not_click,,44,76,yes,yes,annually,38,1
+123,l,brown,spring,accessories,clicked,purchased,44,40,yes,yes,fortnightly,40,2
+124,l,brown,fall,clothing,clicked,only_searched,46,89,yes,yes,weekly,57,1
+125,m,gray,spring,clothing,not_open,not_activated,50,86,yes,yes,annually,44,1
+126,m,indigo,winter,clothing,not_click,,45,54,yes,yes,every 3 months,49,2
+127,l,pink,spring,clothing,not_open,not_activated,48,36,yes,yes,every 3 months,43,2
+131,l,violet,fall,accessories,clicked,only_searched,13,39,yes,yes,fortnightly,44,0
+132,l,indigo,summer,clothing,not_click,,46,29,yes,yes,weekly,28,2
+133,m,orange,fall,accessories,not_click,,42,58,yes,yes,weekly,30,2
+135,l,gray,fall,accessories,clicked,only_searched,25,94,yes,yes,monthly,43,1
+136,m,purple,fall,footwear,not_click,,12,81,yes,yes,quarterly,43,3
+137,m,white,winter,clothing,not_open,not_activated,4,86,yes,yes,quarterly,39,3
+140,m,white,fall,outerwear,clicked,only_searched,30,95,yes,yes,annually,49,1
+151,l,cyan,fall,footwear,clicked,only_searched,17,96,yes,yes,every 3 months,35,3
+152,l,turquoise,fall,accessories,not_open,not_activated,3,47,yes,yes,annually,28,0
+153,s,brown,summer,clothing,clicked,purchased,42,85,yes,yes,annually,30,1
+155,m,charcoal,fall,clothing,not_click,,21,98,yes,yes,quarterly,41,3
+157,m,lavender,fall,clothing,not_click,,40,26,yes,yes,annually,35,2
+160,m,charcoal,fall,accessories,clicked,purchased,39,27,yes,yes,every 3 months,58,2
+161,m,orange,summer,accessories,not_click,,34,23,yes,yes,monthly,27,2
+163,m,turquoise,summer,accessories,clicked,purchased,31,74,yes,yes,bi-weekly,54,1
+164,m,purple,summer,clothing,not_open,not_activated,8,67,yes,yes,weekly,54,3
+165,s,purple,spring,accessories,not_click,,5,65,yes,yes,fortnightly,59,3
+166,s,yellow,winter,accessories,not_click,,7,60,yes,yes,monthly,42,3
+167,xl,indigo,fall,footwear,clicked,purchased,30,31,yes,yes,monthly,46,2
+168,m,green,fall,accessories,not_click,,14,27,yes,yes,every 3 months,33,0
+169,m,magenta,summer,footwear,not_click,,5,80,yes,yes,fortnightly,34,3
+170,s,gold,summer,outerwear,not_click,,3,30,yes,yes,every 3 months,27,0
+171,m,maroon,fall,clothing,clicked,only_searched,46,25,yes,yes,bi-weekly,52,2
+172,m,blue,summer,clothing,not_click,,4,35,yes,yes,weekly,29,0
+175,l,brown,winter,footwear,not_click,,37,35,yes,yes,annually,41,2
+176,l,violet,fall,outerwear,clicked,purchased,2,86,yes,yes,annually,53,3
+177,l,black,spring,accessories,clicked,purchased,30,81,yes,yes,quarterly,53,1
+182,m,beige,summer,clothing,clicked,purchased,4,61,yes,yes,weekly,32,3
+183,xl,purple,summer,accessories,clicked,only_searched,10,96,yes,yes,annually,38,3
+184,xl,beige,spring,clothing,not_click,,26,29,yes,yes,weekly,58,2
+185,l,cyan,spring,footwear,clicked,purchased,40,33,yes,yes,fortnightly,32,2
+187,s,lavender,summer,accessories,clicked,only_searched,31,56,yes,yes,annually,39,2
+190,m,maroon,fall,clothing,clicked,only_searched,4,82,yes,yes,weekly,36,3
+193,l,turquoise,summer,footwear,clicked,purchased,12,29,yes,yes,bi-weekly,46,0
+194,s,silver,fall,accessories,clicked,purchased,29,100,yes,yes,annually,36,1
+195,m,olive,spring,accessories,not_click,,15,94,yes,yes,quarterly,51,3
+196,m,magenta,fall,outerwear,not_open,not_activated,34,25,yes,yes,monthly,51,2
+197,m,lavender,summer,footwear,clicked,purchased,41,88,yes,yes,fortnightly,38,1
+199,m,turquoise,winter,accessories,not_click,,39,45,yes,yes,fortnightly,57,2
+200,xl,green,summer,accessories,clicked,added_to_cart,32,73,yes,yes,weekly,54,1
+203,l,magenta,spring,accessories,clicked,purchased,33,38,yes,yes,annually,57,2
+209,m,gold,spring,clothing,not_click,,17,38,yes,yes,monthly,57,0
+211,l,teal,fall,outerwear,not_click,,6,22,yes,yes,fortnightly,45,0
+214,l,peach,fall,accessories,clicked,purchased,11,93,yes,yes,every 3 months,30,3
+217,l,yellow,spring,clothing,not_click,,21,61,yes,yes,weekly,43,3
+219,s,magenta,spring,clothing,clicked,purchased,8,45,yes,yes,quarterly,28,0
+220,m,cyan,spring,accessories,clicked,purchased,12,88,yes,yes,fortnightly,32,3
+221,s,indigo,spring,footwear,clicked,purchased,48,57,yes,yes,fortnightly,39,2
+223,xl,gray,spring,accessories,not_click,,14,94,yes,yes,fortnightly,47,3
+227,l,violet,spring,footwear,clicked,only_searched,5,74,yes,yes,monthly,29,3
+228,m,turquoise,winter,clothing,clicked,only_searched,25,90,yes,yes,fortnightly,50,1
+232,m,blue,spring,clothing,clicked,purchased,18,26,yes,yes,every 3 months,28,0
+236,m,cyan,winter,accessories,clicked,only_searched,31,89,yes,yes,quarterly,43,1
+240,l,yellow,summer,clothing,clicked,purchased,47,51,yes,yes,bi-weekly,49,2
+241,xl,turquoise,winter,clothing,not_click,,29,45,yes,yes,fortnightly,47,2
+242,m,peach,winter,clothing,clicked,only_searched,43,88,yes,yes,bi-weekly,36,1
+243,l,gray,summer,outerwear,not_click,,40,85,yes,yes,every 3 months,55,1
+245,s,indigo,spring,accessories,clicked,only_searched,39,42,yes,yes,weekly,53,2
+247,xl,beige,spring,accessories,clicked,only_searched,20,86,yes,yes,bi-weekly,35,3
+248,xl,brown,spring,clothing,not_open,not_activated,14,66,yes,yes,weekly,29,3
+249,m,blue,winter,accessories,not_click,,33,100,yes,yes,weekly,47,1
+250,s,teal,fall,accessories,clicked,purchased,18,47,yes,yes,annually,53,0
+253,m,violet,summer,clothing,clicked,purchased,33,41,yes,yes,fortnightly,32,2
+254,l,cyan,winter,footwear,clicked,only_searched,15,73,yes,yes,bi-weekly,52,3
+256,m,charcoal,spring,accessories,clicked,purchased,25,20,yes,yes,annually,43,0
+257,xl,violet,spring,accessories,not_open,not_activated,20,30,yes,yes,every 3 months,58,0
+260,m,gold,fall,clothing,clicked,added_to_cart,13,57,yes,yes,annually,32,0
+261,s,red,winter,accessories,not_click,,11,57,yes,yes,every 3 months,38,0
+263,m,teal,summer,clothing,clicked,purchased,6,40,yes,yes,annually,37,0
+264,m,purple,summer,clothing,clicked,only_searched,29,46,yes,yes,monthly,27,2
+265,s,charcoal,fall,clothing,clicked,purchased,15,78,yes,yes,annually,36,3
+266,m,gray,spring,accessories,not_click,,17,59,yes,yes,bi-weekly,32,3
+267,l,white,summer,accessories,clicked,purchased,32,75,yes,yes,weekly,51,1
+271,xl,orange,fall,clothing,clicked,added_to_cart,16,52,yes,yes,annually,33,0
+273,m,beige,summer,accessories,not_click,,37,26,yes,yes,bi-weekly,48,2
+276,xl,lavender,winter,accessories,not_click,,13,85,yes,yes,weekly,48,3
+278,m,green,winter,clothing,clicked,purchased,36,29,yes,yes,bi-weekly,29,2
+279,m,orange,spring,clothing,not_click,,23,95,yes,yes,annually,57,1
+282,xl,charcoal,spring,accessories,not_open,not_activated,22,61,yes,yes,bi-weekly,38,3
+284,s,maroon,fall,clothing,clicked,added_to_cart,16,30,yes,yes,annually,32,0
+286,xl,yellow,summer,accessories,clicked,added_to_cart,3,39,yes,yes,bi-weekly,29,0
+287,l,gray,summer,accessories,not_open,not_activated,6,51,yes,yes,annually,27,0
+288,l,blue,spring,accessories,clicked,only_searched,18,37,yes,yes,fortnightly,56,0
+289,m,lavender,winter,clothing,clicked,purchased,34,62,yes,yes,bi-weekly,30,1
+290,m,yellow,fall,outerwear,clicked,purchased,26,85,yes,yes,monthly,49,1
+291,m,indigo,winter,clothing,clicked,only_searched,50,33,yes,yes,weekly,58,2
+292,xl,violet,fall,clothing,not_click,,40,26,yes,yes,monthly,57,2
+296,m,indigo,winter,accessories,clicked,purchased,24,42,yes,yes,quarterly,53,0
+298,xl,purple,summer,footwear,not_click,,4,26,yes,yes,bi-weekly,48,0
+301,m,teal,spring,accessories,clicked,purchased,24,98,yes,yes,weekly,29,1
+302,m,green,spring,clothing,clicked,added_to_cart,25,95,yes,yes,every 3 months,46,1
+305,m,green,winter,clothing,clicked,only_searched,45,84,yes,yes,bi-weekly,40,1
+307,s,white,summer,outerwear,clicked,only_searched,4,49,yes,yes,annually,26,0
+308,m,orange,winter,accessories,clicked,added_to_cart,3,32,yes,yes,every 3 months,29,0
+311,m,charcoal,winter,clothing,not_click,,50,85,yes,yes,fortnightly,56,1
+313,l,green,spring,clothing,clicked,purchased,6,89,yes,yes,annually,38,3
+314,m,pink,spring,clothing,clicked,added_to_cart,50,77,yes,yes,every 3 months,42,1
+317,m,charcoal,fall,accessories,clicked,purchased,46,22,yes,yes,monthly,36,2
+318,l,teal,fall,clothing,not_open,not_activated,42,82,yes,yes,every 3 months,58,1
+319,m,beige,winter,accessories,clicked,purchased,10,67,yes,yes,annually,45,3
+320,xl,white,spring,clothing,not_click,,1,74,yes,yes,every 3 months,47,3
+323,s,cyan,winter,accessories,clicked,only_searched,47,95,yes,yes,monthly,41,1
+325,m,olive,summer,clothing,not_open,not_activated,37,82,yes,yes,quarterly,37,1
+329,m,yellow,fall,outerwear,not_click,,9,50,yes,yes,weekly,48,0
+331,m,beige,winter,clothing,not_open,not_activated,43,51,yes,yes,bi-weekly,46,2
+332,l,beige,fall,clothing,not_click,,46,98,yes,yes,quarterly,31,1
+334,m,teal,winter,clothing,not_click,,15,64,yes,yes,bi-weekly,39,3
+337,s,orange,fall,accessories,not_click,,16,81,yes,yes,annually,36,3
+340,m,teal,spring,clothing,not_open,not_activated,21,33,yes,yes,every 3 months,40,0
+341,l,blue,summer,clothing,clicked,purchased,39,47,yes,yes,every 3 months,40,2
+344,m,purple,summer,footwear,not_click,,26,39,yes,yes,monthly,27,0
+346,s,olive,winter,footwear,clicked,added_to_cart,27,59,yes,yes,annually,48,2
+347,l,violet,spring,clothing,clicked,added_to_cart,5,50,yes,yes,weekly,49,0
+349,m,beige,fall,clothing,clicked,purchased,17,59,yes,yes,fortnightly,56,3
+350,m,green,winter,accessories,not_click,,3,87,yes,yes,bi-weekly,37,3
+351,m,violet,spring,clothing,not_click,,47,68,yes,yes,fortnightly,42,1
+352,m,teal,winter,clothing,clicked,only_searched,24,90,yes,yes,bi-weekly,28,1
+353,xl,yellow,fall,clothing,not_click,,12,71,yes,yes,every 3 months,27,3
+356,xl,magenta,fall,accessories,not_click,,1,42,yes,yes,every 3 months,37,0
+357,l,black,spring,clothing,not_open,not_activated,27,80,yes,yes,weekly,56,1
+360,m,olive,winter,footwear,clicked,purchased,30,74,yes,yes,every 3 months,31,1
+361,m,teal,summer,clothing,not_open,not_activated,18,30,yes,yes,fortnightly,51,0
+363,m,charcoal,fall,footwear,clicked,only_searched,1,64,yes,yes,fortnightly,53,3
+364,l,yellow,winter,clothing,clicked,only_searched,42,88,yes,yes,fortnightly,55,1
+366,xl,gray,summer,accessories,not_click,,50,88,yes,yes,quarterly,55,1
+370,m,silver,summer,accessories,not_open,not_activated,45,40,yes,yes,quarterly,38,2
+371,m,olive,winter,accessories,not_open,not_activated,13,34,yes,yes,weekly,59,0
+372,s,pink,winter,footwear,clicked,only_searched,47,83,yes,yes,monthly,27,1
+376,m,olive,summer,accessories,not_open,not_activated,6,32,yes,yes,quarterly,59,0
+377,s,gray,fall,footwear,clicked,only_searched,2,51,yes,yes,bi-weekly,51,0
+380,s,magenta,fall,clothing,clicked,purchased,46,29,yes,yes,bi-weekly,32,2
+381,xl,beige,fall,accessories,clicked,only_searched,19,69,yes,yes,weekly,39,3
+383,m,peach,winter,clothing,clicked,added_to_cart,47,76,yes,yes,quarterly,28,1
+384,s,magenta,fall,accessories,not_open,not_activated,6,77,yes,yes,quarterly,50,3
+388,l,silver,summer,outerwear,clicked,purchased,38,93,yes,yes,fortnightly,45,1
+390,l,purple,spring,footwear,not_click,,28,42,yes,yes,monthly,27,2
+392,l,gray,spring,clothing,clicked,purchased,25,86,yes,yes,fortnightly,37,1
+395,m,beige,spring,accessories,not_click,,7,29,yes,yes,bi-weekly,43,0
+401,m,green,winter,footwear,not_open,not_activated,14,66,yes,yes,fortnightly,39,3
+403,l,cyan,fall,accessories,clicked,purchased,26,78,yes,yes,monthly,31,1
+405,m,indigo,spring,clothing,clicked,added_to_cart,11,93,yes,yes,monthly,35,3
+406,s,silver,summer,clothing,clicked,only_searched,15,74,yes,yes,annually,41,3
+407,m,peach,spring,accessories,not_click,,13,55,yes,yes,monthly,52,0
+408,xl,teal,spring,clothing,clicked,added_to_cart,5,76,yes,yes,bi-weekly,45,3
+409,l,white,spring,footwear,not_click,,36,66,yes,yes,fortnightly,34,1
+410,m,brown,winter,clothing,not_open,not_activated,32,51,yes,yes,monthly,35,2
+411,l,lavender,spring,clothing,clicked,only_searched,1,26,yes,yes,quarterly,29,0
+412,m,indigo,summer,clothing,clicked,purchased,15,29,yes,yes,annually,59,0
+415,l,violet,winter,accessories,not_open,not_activated,30,88,yes,yes,weekly,29,1
+417,l,olive,spring,accessories,clicked,only_searched,24,55,yes,yes,fortnightly,36,0
+420,s,teal,winter,clothing,clicked,purchased,14,91,yes,yes,every 3 months,53,3
+422,m,violet,winter,clothing,clicked,purchased,48,40,yes,yes,bi-weekly,38,2
+424,l,teal,spring,accessories,not_open,not_activated,21,26,yes,yes,bi-weekly,46,0
+427,m,violet,winter,clothing,clicked,only_searched,19,71,yes,yes,quarterly,43,3
+433,s,indigo,fall,clothing,not_click,,26,86,yes,yes,weekly,47,1
+434,m,orange,fall,clothing,not_click,,23,92,yes,yes,fortnightly,49,3
+436,xl,olive,winter,outerwear,clicked,only_searched,42,28,yes,yes,monthly,51,2
+437,l,cyan,summer,clothing,not_click,,41,46,yes,yes,weekly,40,2
+438,m,peach,summer,accessories,clicked,added_to_cart,41,50,yes,yes,annually,45,2
+442,m,maroon,winter,clothing,clicked,purchased,32,81,yes,yes,annually,43,1
+443,m,olive,fall,accessories,not_click,,31,69,yes,yes,quarterly,29,1
+445,m,red,summer,clothing,not_click,,31,20,yes,yes,annually,48,2
+449,m,yellow,summer,accessories,not_open,not_activated,35,23,yes,yes,fortnightly,32,2
+450,l,peach,summer,accessories,not_open,not_activated,35,45,yes,yes,monthly,26,2
+453,m,violet,summer,clothing,clicked,added_to_cart,39,45,yes,yes,fortnightly,45,2
+455,s,gold,summer,outerwear,not_click,,14,97,yes,yes,bi-weekly,37,3
+457,s,indigo,fall,clothing,clicked,only_searched,33,96,yes,yes,quarterly,50,1
+459,l,black,winter,clothing,not_click,,48,91,yes,yes,monthly,47,1
+463,m,white,fall,outerwear,clicked,only_searched,48,81,yes,yes,every 3 months,59,1
+464,s,orange,summer,accessories,clicked,purchased,29,81,yes,yes,weekly,37,1
+466,m,pink,summer,clothing,clicked,purchased,25,88,yes,yes,quarterly,54,1
+469,s,peach,fall,accessories,not_open,not_activated,16,38,yes,yes,quarterly,34,0
+471,l,teal,summer,clothing,not_click,,6,63,yes,yes,every 3 months,50,3
+472,xl,white,winter,accessories,clicked,only_searched,36,72,yes,yes,quarterly,55,1
+474,l,olive,spring,outerwear,clicked,only_searched,29,42,yes,yes,every 3 months,34,2
+479,xl,turquoise,winter,accessories,clicked,purchased,48,43,yes,yes,annually,35,2
+480,l,yellow,winter,accessories,clicked,purchased,43,84,yes,yes,monthly,39,1
+483,m,yellow,winter,accessories,not_open,not_activated,11,42,yes,yes,annually,41,0
+486,s,blue,spring,footwear,not_click,,36,44,yes,yes,fortnightly,48,2
+487,m,charcoal,fall,footwear,clicked,purchased,37,63,yes,yes,every 3 months,38,1
+488,l,red,winter,outerwear,not_open,not_activated,22,68,yes,yes,quarterly,41,3
+491,m,silver,winter,footwear,not_click,,47,42,yes,yes,monthly,57,2
+492,m,silver,summer,outerwear,not_click,,24,69,yes,yes,bi-weekly,49,3
+494,xl,red,summer,accessories,not_click,,19,48,yes,yes,bi-weekly,28,0
+495,m,indigo,winter,footwear,clicked,only_searched,42,68,yes,yes,weekly,38,1
+497,s,maroon,fall,clothing,clicked,only_searched,31,63,yes,yes,fortnightly,30,1
+498,s,silver,winter,footwear,clicked,added_to_cart,31,39,yes,yes,weekly,43,2
+499,m,lavender,spring,footwear,clicked,purchased,27,78,yes,yes,monthly,43,1
+500,l,silver,winter,footwear,clicked,added_to_cart,24,99,yes,yes,monthly,36,1
+503,s,cyan,fall,clothing,not_click,,8,30,yes,yes,fortnightly,59,0
+505,m,maroon,winter,footwear,clicked,only_searched,26,22,yes,yes,annually,42,0
+507,m,olive,fall,accessories,not_click,,48,40,yes,yes,annually,28,2
+510,l,cyan,summer,clothing,clicked,purchased,17,80,yes,yes,weekly,41,3
+517,l,indigo,fall,clothing,not_click,,19,41,yes,yes,bi-weekly,34,0
+521,m,white,spring,accessories,not_click,,20,84,yes,yes,quarterly,51,3
+524,m,orange,spring,footwear,clicked,purchased,5,40,yes,yes,quarterly,46,0
+526,m,cyan,spring,outerwear,clicked,only_searched,41,37,yes,yes,monthly,51,2
+527,s,red,winter,clothing,clicked,only_searched,19,52,yes,yes,monthly,51,0
+529,s,beige,winter,footwear,clicked,only_searched,40,88,yes,yes,annually,34,1
+530,m,orange,fall,clothing,clicked,purchased,6,84,yes,yes,monthly,32,3
+531,xl,magenta,winter,outerwear,clicked,purchased,25,37,yes,yes,bi-weekly,48,0
+533,l,black,winter,clothing,clicked,purchased,35,76,yes,yes,every 3 months,26,1
+536,l,maroon,spring,clothing,clicked,purchased,24,45,yes,yes,weekly,56,0
+537,s,maroon,fall,outerwear,clicked,only_searched,16,84,yes,yes,every 3 months,44,3
+538,s,turquoise,summer,clothing,clicked,added_to_cart,14,49,yes,yes,annually,50,0
+539,xl,green,spring,clothing,clicked,added_to_cart,43,22,yes,yes,weekly,27,2
+540,m,violet,winter,outerwear,clicked,added_to_cart,49,48,yes,yes,weekly,49,2
+541,m,lavender,spring,clothing,not_click,,33,37,yes,yes,every 3 months,49,2
+542,l,gray,fall,outerwear,not_click,,45,27,yes,yes,bi-weekly,52,2
+543,xl,teal,spring,footwear,clicked,purchased,35,79,yes,yes,bi-weekly,27,1
+544,s,red,spring,clothing,not_click,,11,98,yes,yes,monthly,53,3
+545,s,yellow,summer,footwear,clicked,only_searched,30,64,yes,yes,every 3 months,34,1
+546,l,magenta,summer,outerwear,clicked,purchased,48,32,yes,yes,annually,33,2
+549,m,black,winter,accessories,clicked,only_searched,41,64,yes,yes,every 3 months,36,1
+552,xl,green,fall,outerwear,not_click,,27,78,yes,yes,bi-weekly,29,1
+555,m,red,summer,footwear,not_click,,34,47,yes,yes,weekly,56,2
+559,l,teal,fall,footwear,clicked,added_to_cart,43,77,yes,yes,every 3 months,50,1
+563,m,blue,summer,clothing,not_click,,40,62,yes,yes,annually,53,1
+566,l,lavender,fall,accessories,clicked,purchased,10,43,yes,yes,weekly,59,0
+567,m,indigo,spring,footwear,not_open,not_activated,1,93,yes,yes,fortnightly,55,3
+569,l,red,summer,clothing,clicked,only_searched,36,88,yes,yes,monthly,44,1
+573,xl,cyan,summer,accessories,not_click,,26,97,yes,yes,annually,56,1
+574,m,charcoal,summer,clothing,clicked,only_searched,23,68,yes,yes,bi-weekly,58,3
+575,l,red,fall,footwear,clicked,purchased,20,79,yes,yes,bi-weekly,54,3
+576,m,peach,fall,clothing,not_click,,38,86,yes,yes,monthly,58,1
+577,m,black,winter,accessories,clicked,purchased,5,68,yes,yes,every 3 months,48,3
+581,m,orange,spring,clothing,clicked,purchased,10,80,yes,yes,weekly,49,3
+582,xl,charcoal,winter,clothing,not_click,,12,100,yes,yes,every 3 months,32,3
+587,s,blue,winter,clothing,not_open,not_activated,9,20,yes,yes,annually,45,0
+588,s,maroon,fall,clothing,clicked,only_searched,48,86,yes,yes,every 3 months,29,1
+589,m,violet,fall,footwear,clicked,only_searched,9,60,yes,yes,quarterly,47,3
+590,m,orange,fall,clothing,not_open,not_activated,40,70,yes,yes,annually,28,1
+592,l,olive,fall,accessories,not_click,,6,37,yes,yes,bi-weekly,47,0
+595,s,brown,winter,clothing,clicked,purchased,6,83,yes,yes,monthly,35,3
+604,l,green,winter,accessories,clicked,purchased,26,46,yes,yes,every 3 months,31,2
+605,s,pink,fall,accessories,clicked,added_to_cart,11,92,yes,yes,every 3 months,44,3
+606,xl,charcoal,winter,accessories,clicked,purchased,17,32,yes,yes,weekly,40,0
+608,l,purple,fall,clothing,not_click,,44,23,yes,yes,monthly,47,2
+609,s,gold,fall,accessories,not_click,,21,25,yes,yes,every 3 months,41,0
+610,l,purple,fall,clothing,clicked,only_searched,49,54,yes,yes,fortnightly,51,2
+611,m,charcoal,summer,clothing,clicked,only_searched,27,72,yes,yes,every 3 months,53,1
+618,m,maroon,fall,accessories,clicked,purchased,2,57,yes,yes,quarterly,50,0
+621,m,black,fall,accessories,not_click,,10,89,yes,yes,every 3 months,33,3
+622,s,red,fall,accessories,clicked,purchased,45,27,yes,yes,weekly,51,2
+625,xl,pink,fall,clothing,clicked,purchased,21,87,yes,yes,annually,55,3
+626,m,red,fall,accessories,not_click,,1,79,yes,yes,weekly,49,3
+627,m,indigo,spring,accessories,clicked,purchased,10,79,yes,yes,annually,31,3
+630,l,beige,spring,footwear,not_click,,11,90,yes,yes,annually,26,3
+631,s,silver,fall,accessories,clicked,purchased,33,94,yes,yes,annually,41,1
+633,m,red,winter,accessories,clicked,purchased,19,51,yes,yes,fortnightly,35,0
+635,m,teal,summer,footwear,clicked,purchased,46,60,yes,yes,weekly,36,2
+637,m,indigo,summer,accessories,not_click,,14,30,yes,yes,every 3 months,41,0
+639,s,blue,summer,footwear,not_click,,41,20,yes,yes,monthly,53,2
+640,l,olive,spring,clothing,not_open,not_activated,50,24,yes,yes,annually,54,2
+642,m,red,winter,clothing,not_click,,23,78,yes,yes,every 3 months,47,3
+647,xl,pink,spring,footwear,clicked,only_searched,19,54,yes,yes,bi-weekly,51,0
+650,l,orange,spring,clothing,clicked,added_to_cart,33,93,yes,yes,every 3 months,53,1
+651,m,magenta,spring,accessories,not_click,,12,40,yes,yes,annually,34,0
+652,l,yellow,summer,accessories,not_click,,41,32,yes,yes,fortnightly,32,2
+658,m,white,winter,outerwear,clicked,purchased,6,80,yes,yes,quarterly,48,3
+661,m,olive,fall,outerwear,clicked,purchased,39,79,yes,yes,quarterly,50,1
+662,xl,green,fall,clothing,clicked,purchased,39,68,yes,yes,quarterly,57,1
+664,m,charcoal,fall,clothing,clicked,purchased,23,83,yes,yes,monthly,59,3
+667,l,turquoise,winter,clothing,not_open,not_activated,30,26,yes,yes,quarterly,35,2
+668,s,blue,winter,accessories,clicked,purchased,32,76,yes,yes,quarterly,34,1
+669,s,turquoise,fall,clothing,not_click,,35,85,yes,yes,monthly,49,1
+670,m,gray,spring,outerwear,clicked,purchased,45,89,yes,yes,bi-weekly,43,1
+672,l,black,winter,outerwear,clicked,purchased,45,30,yes,yes,weekly,38,2
+673,m,peach,winter,clothing,not_open,not_activated,29,53,yes,yes,quarterly,59,2
+674,m,indigo,spring,clothing,clicked,only_searched,27,66,yes,yes,bi-weekly,35,1
+675,xl,beige,winter,accessories,clicked,purchased,36,33,yes,yes,annually,48,2
+677,m,peach,winter,clothing,clicked,purchased,38,60,yes,yes,bi-weekly,28,2
+679,m,teal,fall,clothing,clicked,only_searched,25,74,yes,yes,every 3 months,27,3
+680,m,turquoise,fall,footwear,clicked,only_searched,37,95,yes,yes,fortnightly,56,1
+681,m,magenta,spring,footwear,clicked,only_searched,3,25,yes,yes,annually,58,0
+682,xl,purple,winter,clothing,clicked,purchased,24,59,yes,yes,every 3 months,30,3
+684,s,violet,winter,footwear,clicked,added_to_cart,3,36,yes,yes,monthly,33,0
+694,l,turquoise,spring,clothing,clicked,purchased,30,52,yes,yes,every 3 months,46,2
+696,xl,peach,summer,clothing,clicked,only_searched,15,67,yes,yes,every 3 months,30,3
+701,l,olive,winter,clothing,not_click,,5,79,yes,yes,monthly,57,3
+702,l,red,fall,footwear,clicked,purchased,5,90,yes,yes,every 3 months,51,3
+708,l,purple,spring,clothing,clicked,only_searched,21,38,yes,yes,annually,59,0
+709,l,beige,summer,accessories,not_click,,19,50,yes,yes,fortnightly,37,0
+710,l,charcoal,summer,outerwear,clicked,only_searched,23,79,yes,yes,monthly,49,3
+713,xl,black,summer,clothing,not_open,not_activated,36,81,yes,yes,quarterly,42,1
+714,m,lavender,summer,clothing,clicked,added_to_cart,39,90,yes,yes,bi-weekly,37,1
+715,m,magenta,fall,outerwear,not_click,,40,70,yes,yes,fortnightly,26,1
+717,m,olive,spring,accessories,clicked,purchased,9,29,yes,yes,bi-weekly,30,0
+721,l,orange,fall,accessories,not_click,,19,62,yes,yes,weekly,33,3
+723,s,blue,summer,clothing,not_open,not_activated,50,32,yes,yes,bi-weekly,27,2
+724,l,cyan,fall,accessories,clicked,added_to_cart,43,53,yes,yes,monthly,35,2
+725,xl,green,fall,clothing,clicked,only_searched,36,79,yes,yes,every 3 months,37,1
+729,m,pink,winter,clothing,clicked,only_searched,12,78,yes,yes,every 3 months,29,3
+730,l,beige,summer,accessories,clicked,purchased,46,56,yes,yes,every 3 months,41,2
+731,m,indigo,summer,footwear,clicked,purchased,28,25,yes,yes,fortnightly,48,2
+734,l,cyan,fall,clothing,clicked,purchased,20,36,yes,yes,bi-weekly,45,0
+738,m,teal,spring,accessories,clicked,purchased,28,24,yes,yes,annually,47,2
+739,l,orange,winter,accessories,not_click,,27,31,yes,yes,quarterly,56,2
+741,m,orange,summer,clothing,clicked,purchased,22,69,yes,yes,fortnightly,26,3
+746,l,orange,fall,clothing,clicked,only_searched,4,92,yes,yes,monthly,46,3
+747,m,red,winter,footwear,not_click,,47,45,yes,yes,annually,40,2
+749,l,brown,fall,accessories,not_click,,8,39,yes,yes,quarterly,35,0
+753,l,yellow,fall,accessories,not_open,not_activated,17,85,yes,yes,every 3 months,39,3
+754,m,teal,fall,footwear,not_open,not_activated,27,54,yes,yes,quarterly,47,2
+755,l,pink,spring,accessories,not_click,,3,41,yes,yes,quarterly,36,0
+760,xl,green,winter,clothing,not_click,,25,49,yes,yes,fortnightly,51,2
+761,xl,violet,fall,accessories,not_click,,6,50,yes,yes,annually,33,0
+762,l,yellow,fall,accessories,clicked,only_searched,26,91,yes,yes,weekly,57,1
+763,m,pink,fall,accessories,not_open,not_activated,43,46,yes,yes,fortnightly,45,2
+765,xl,silver,fall,clothing,not_click,,6,39,yes,yes,quarterly,55,0
+766,m,pink,summer,footwear,clicked,purchased,13,99,yes,yes,quarterly,54,3
+774,l,indigo,winter,accessories,clicked,added_to_cart,14,84,yes,yes,bi-weekly,29,3
+775,m,yellow,summer,accessories,not_click,,11,46,yes,yes,quarterly,42,0
+777,m,maroon,spring,clothing,clicked,purchased,8,60,yes,yes,every 3 months,49,3
+778,xl,silver,spring,clothing,clicked,only_searched,37,32,yes,yes,weekly,55,2
+779,m,yellow,summer,clothing,not_click,,23,50,yes,yes,annually,29,0
+781,m,turquoise,spring,footwear,clicked,only_searched,38,26,yes,yes,quarterly,34,2
+782,l,indigo,winter,accessories,not_click,,12,44,yes,yes,fortnightly,30,0
+783,m,green,summer,clothing,not_click,,15,57,yes,yes,weekly,28,0
+785,m,peach,winter,clothing,clicked,added_to_cart,41,72,yes,yes,every 3 months,31,1
+786,s,purple,spring,clothing,clicked,purchased,37,62,yes,yes,fortnightly,46,1
+789,xl,yellow,summer,clothing,clicked,purchased,18,51,yes,yes,quarterly,50,0
+790,s,purple,fall,accessories,clicked,only_searched,4,84,yes,yes,bi-weekly,33,3
+793,m,violet,spring,footwear,clicked,only_searched,45,45,yes,yes,weekly,34,2
+796,m,beige,summer,footwear,not_click,,34,26,yes,yes,annually,39,2
+797,xl,black,fall,clothing,clicked,purchased,43,78,yes,yes,annually,42,1
+798,m,violet,fall,outerwear,clicked,added_to_cart,38,82,yes,yes,weekly,42,1
+800,l,brown,summer,accessories,clicked,purchased,31,55,yes,yes,annually,55,2
+801,s,gold,summer,clothing,not_click,,20,20,yes,yes,every 3 months,32,0
+804,l,silver,winter,clothing,not_click,,30,38,yes,yes,every 3 months,32,2
+805,m,maroon,summer,footwear,not_click,,28,47,yes,yes,quarterly,43,2
+807,l,charcoal,summer,clothing,clicked,only_searched,46,56,yes,yes,quarterly,56,2
+809,l,lavender,fall,footwear,clicked,purchased,38,96,yes,yes,every 3 months,46,1
+810,m,violet,fall,footwear,not_click,,30,81,yes,yes,bi-weekly,48,1
+811,s,lavender,fall,accessories,not_click,,32,83,yes,yes,bi-weekly,52,1
+814,s,olive,summer,accessories,not_open,not_activated,14,45,yes,yes,annually,54,0
+815,m,pink,winter,clothing,not_click,,8,62,yes,yes,monthly,31,3
+816,l,teal,spring,accessories,not_click,,27,84,yes,yes,bi-weekly,30,1
+817,l,cyan,summer,clothing,clicked,only_searched,24,24,yes,yes,monthly,26,0
+820,s,teal,winter,accessories,not_click,,28,36,yes,yes,quarterly,55,2
+823,l,magenta,winter,clothing,not_click,,23,59,yes,yes,annually,35,3
+824,m,green,winter,accessories,clicked,purchased,11,27,yes,yes,quarterly,51,0
+826,xl,brown,fall,accessories,not_click,,17,94,yes,yes,monthly,27,3
+827,m,purple,winter,clothing,clicked,only_searched,36,94,yes,yes,weekly,54,1
+828,s,green,fall,footwear,clicked,added_to_cart,33,51,yes,yes,fortnightly,31,2
+831,m,maroon,fall,clothing,clicked,purchased,5,76,yes,yes,annually,41,3
+834,m,purple,fall,accessories,not_click,,11,68,yes,yes,annually,43,3
+835,m,indigo,summer,accessories,clicked,only_searched,18,89,yes,yes,weekly,52,3
+836,l,indigo,summer,footwear,clicked,purchased,21,26,yes,yes,weekly,35,0
+839,m,gray,spring,outerwear,not_open,not_activated,49,29,yes,yes,annually,33,2
+842,m,beige,summer,clothing,clicked,purchased,28,88,yes,yes,fortnightly,55,1
+845,l,purple,winter,footwear,clicked,only_searched,44,48,yes,yes,bi-weekly,59,2
+846,xl,charcoal,winter,accessories,clicked,added_to_cart,30,21,yes,yes,monthly,31,2
+849,m,lavender,fall,footwear,not_open,not_activated,33,73,yes,yes,bi-weekly,48,1
+853,l,yellow,spring,clothing,clicked,purchased,23,60,yes,yes,every 3 months,34,3
+857,m,gold,summer,clothing,clicked,only_searched,47,33,yes,yes,fortnightly,55,2
+860,m,teal,winter,clothing,not_click,,7,73,yes,yes,monthly,47,3
+861,m,maroon,spring,footwear,clicked,only_searched,3,87,yes,yes,monthly,26,3
+862,xl,green,spring,clothing,not_open,not_activated,35,100,yes,yes,every 3 months,46,1
+864,m,cyan,summer,footwear,clicked,purchased,42,41,yes,yes,fortnightly,49,2
+865,s,charcoal,winter,clothing,clicked,purchased,5,59,yes,yes,annually,51,3
+870,m,silver,spring,accessories,not_click,,33,54,yes,yes,weekly,38,2
+873,m,pink,spring,clothing,not_click,,25,33,yes,yes,quarterly,56,0
+874,m,pink,summer,footwear,not_open,not_activated,24,77,yes,yes,quarterly,51,3
+876,l,gray,summer,footwear,clicked,added_to_cart,7,39,yes,yes,every 3 months,37,0
+877,l,gray,summer,accessories,not_click,,1,51,yes,yes,weekly,41,0
+882,m,silver,summer,footwear,clicked,only_searched,18,61,yes,yes,annually,52,3
+883,m,cyan,fall,footwear,not_open,not_activated,37,35,yes,yes,every 3 months,50,2
+886,l,purple,fall,clothing,not_open,not_activated,49,99,yes,yes,every 3 months,41,1
+889,s,gold,spring,accessories,clicked,purchased,44,77,yes,yes,annually,49,1
+890,s,olive,fall,accessories,not_click,,50,84,yes,yes,weekly,59,1
+891,s,purple,spring,accessories,clicked,added_to_cart,47,51,yes,yes,monthly,52,2
+895,l,purple,spring,clothing,clicked,only_searched,3,60,yes,yes,quarterly,44,3
+896,xl,olive,spring,accessories,not_open,not_activated,33,69,yes,yes,quarterly,40,1
+901,l,gray,fall,accessories,not_click,,42,98,yes,yes,quarterly,54,1
+903,m,beige,summer,accessories,clicked,only_searched,5,44,yes,yes,monthly,43,0
+904,m,blue,winter,outerwear,not_click,,3,45,yes,yes,quarterly,44,0
+907,m,red,spring,clothing,clicked,added_to_cart,21,56,yes,yes,bi-weekly,41,0
+909,m,turquoise,winter,accessories,clicked,added_to_cart,9,99,yes,yes,every 3 months,26,3
+911,s,pink,spring,clothing,clicked,added_to_cart,22,25,yes,yes,monthly,49,0
+912,m,black,winter,clothing,clicked,only_searched,2,74,yes,yes,quarterly,53,3
+915,l,purple,summer,clothing,clicked,purchased,27,67,yes,yes,every 3 months,43,1
+916,l,purple,winter,clothing,not_click,,33,22,yes,yes,fortnightly,31,2
+920,l,green,winter,clothing,clicked,only_searched,17,82,yes,yes,bi-weekly,41,3
+924,m,silver,spring,clothing,not_click,,7,24,yes,yes,weekly,55,0
+925,xl,beige,winter,clothing,clicked,added_to_cart,37,78,yes,yes,quarterly,52,1
+927,xl,green,spring,clothing,clicked,purchased,11,63,yes,yes,bi-weekly,54,3
+930,m,white,fall,footwear,not_click,,26,94,yes,yes,fortnightly,59,1
+931,l,green,fall,clothing,clicked,only_searched,20,78,yes,yes,bi-weekly,26,3
+935,s,yellow,spring,clothing,clicked,purchased,21,47,yes,yes,monthly,45,0
+936,l,white,fall,clothing,clicked,purchased,2,51,yes,yes,fortnightly,58,0
+938,m,magenta,summer,clothing,clicked,only_searched,18,24,yes,yes,quarterly,32,0
+939,s,teal,fall,clothing,clicked,only_searched,21,97,yes,yes,fortnightly,36,3
+943,m,cyan,winter,clothing,not_open,not_activated,38,91,yes,yes,bi-weekly,26,1
+948,m,charcoal,winter,clothing,not_open,not_activated,6,32,yes,yes,every 3 months,57,0
+949,l,olive,summer,accessories,clicked,added_to_cart,11,90,yes,yes,every 3 months,49,3
+950,m,olive,summer,clothing,not_click,,49,36,yes,yes,monthly,33,2
+951,xl,turquoise,winter,accessories,not_click,,30,37,yes,yes,quarterly,54,2
+958,xl,violet,spring,accessories,clicked,only_searched,11,23,yes,yes,quarterly,38,0
+960,m,cyan,spring,clothing,not_open,not_activated,12,99,yes,yes,fortnightly,36,3
+965,m,beige,spring,footwear,clicked,only_searched,12,51,yes,yes,bi-weekly,42,0
+966,l,black,spring,footwear,clicked,added_to_cart,10,55,yes,yes,annually,43,0
+967,m,brown,spring,clothing,not_open,not_activated,19,55,yes,yes,annually,58,0
+968,s,silver,summer,clothing,clicked,only_searched,4,26,yes,yes,weekly,27,0
+969,l,gray,summer,clothing,not_open,not_activated,48,67,yes,yes,quarterly,57,1
+970,s,pink,fall,outerwear,clicked,purchased,37,31,yes,yes,monthly,40,2
+971,s,maroon,winter,clothing,clicked,only_searched,4,66,yes,yes,monthly,45,3
+972,m,cyan,summer,accessories,clicked,purchased,15,67,yes,yes,weekly,47,3
+976,m,olive,summer,clothing,not_open,not_activated,2,40,yes,yes,weekly,58,0
+979,m,turquoise,summer,accessories,clicked,only_searched,33,40,yes,yes,weekly,56,2
+981,s,magenta,spring,footwear,clicked,only_searched,39,98,yes,yes,every 3 months,56,1
+982,m,silver,spring,accessories,clicked,purchased,47,42,yes,yes,quarterly,27,2
+983,s,red,summer,outerwear,clicked,purchased,37,62,yes,yes,monthly,35,1
+987,s,peach,spring,accessories,not_click,,36,96,yes,yes,monthly,54,1
+991,s,yellow,spring,accessories,not_click,,24,63,yes,yes,weekly,48,3
+993,m,gray,winter,outerwear,clicked,added_to_cart,50,99,yes,yes,weekly,46,1
+995,l,violet,fall,footwear,clicked,only_searched,20,68,yes,yes,monthly,53,3
+996,m,magenta,spring,accessories,not_click,,10,80,yes,yes,weekly,44,3
+997,l,maroon,summer,footwear,not_click,,32,91,yes,yes,quarterly,29,1
+999,m,white,spring,footwear,not_open,not_activated,48,90,yes,yes,bi-weekly,51,1
+1000,l,brown,spring,clothing,not_click,,23,28,yes,yes,monthly,50,0
+1001,m,red,winter,clothing,not_open,not_activated,1,46,yes,yes,bi-weekly,43,0
+1003,m,white,spring,footwear,not_open,not_activated,3,59,yes,yes,bi-weekly,55,3
+1004,m,green,fall,accessories,not_click,,3,68,yes,yes,bi-weekly,56,3
+1005,m,black,summer,accessories,clicked,purchased,44,79,yes,yes,annually,33,1
+1006,m,gold,winter,accessories,clicked,only_searched,5,94,yes,yes,bi-weekly,43,3
+1010,m,silver,summer,clothing,clicked,only_searched,11,30,yes,yes,annually,39,0
+1012,l,indigo,spring,accessories,clicked,purchased,32,25,yes,yes,fortnightly,43,2
+1013,l,teal,summer,footwear,clicked,purchased,27,37,yes,yes,annually,28,2
+1019,xl,charcoal,spring,clothing,not_click,,46,70,yes,yes,weekly,50,1
+1020,s,beige,winter,clothing,not_click,,33,76,yes,yes,bi-weekly,32,1
+1022,s,lavender,winter,outerwear,not_click,,39,51,yes,yes,weekly,55,2
+1028,l,teal,summer,accessories,clicked,purchased,11,90,yes,yes,monthly,33,3
+1030,m,purple,spring,accessories,clicked,added_to_cart,33,22,yes,yes,bi-weekly,29,2
+1031,l,blue,winter,outerwear,not_click,,37,89,yes,yes,quarterly,58,1
+1033,m,lavender,fall,footwear,not_click,,44,36,yes,yes,quarterly,55,2
+1040,m,magenta,fall,accessories,clicked,purchased,39,46,yes,yes,monthly,29,2
+1042,m,orange,summer,clothing,clicked,only_searched,11,25,yes,yes,fortnightly,36,0
+1045,l,teal,summer,clothing,clicked,only_searched,17,30,yes,yes,every 3 months,39,0
+1046,l,black,fall,clothing,clicked,only_searched,11,79,yes,yes,bi-weekly,54,3
+1047,m,magenta,winter,footwear,clicked,purchased,12,22,yes,yes,annually,40,0
+1048,s,olive,fall,clothing,clicked,purchased,7,36,yes,yes,fortnightly,31,0
+1049,l,yellow,fall,clothing,clicked,purchased,19,77,yes,yes,fortnightly,30,3
+1054,m,blue,spring,clothing,clicked,purchased,10,70,yes,yes,bi-weekly,59,3
+1059,l,violet,summer,accessories,not_click,,49,33,yes,yes,every 3 months,29,2
+1061,s,gray,summer,clothing,not_open,not_activated,21,35,yes,yes,every 3 months,27,0
+1062,m,gray,summer,outerwear,not_click,,12,62,yes,yes,every 3 months,36,3
+1063,m,brown,fall,footwear,clicked,purchased,21,75,yes,yes,every 3 months,59,3
+1065,m,violet,spring,accessories,not_click,,42,28,yes,yes,every 3 months,34,2
+1067,m,red,winter,outerwear,clicked,added_to_cart,11,96,yes,yes,bi-weekly,49,3
+1069,m,olive,fall,clothing,clicked,purchased,47,94,yes,yes,weekly,55,1
+1071,m,magenta,summer,accessories,not_click,,50,75,yes,yes,weekly,50,1
+1075,s,white,fall,accessories,clicked,only_searched,45,71,yes,yes,fortnightly,48,1
+1076,l,indigo,summer,accessories,clicked,added_to_cart,32,50,yes,yes,bi-weekly,57,2
+1078,m,pink,winter,outerwear,clicked,purchased,5,28,yes,yes,quarterly,58,0
+1079,m,silver,fall,clothing,not_click,,49,59,yes,yes,fortnightly,37,2
+1083,xl,cyan,winter,accessories,not_click,,30,85,yes,yes,quarterly,54,1
+1084,l,teal,summer,accessories,clicked,added_to_cart,43,97,yes,yes,weekly,35,1
+1085,s,purple,fall,clothing,not_click,,48,36,yes,yes,quarterly,34,2
+1087,m,olive,winter,accessories,clicked,only_searched,27,62,yes,yes,bi-weekly,53,1
+1088,s,white,winter,clothing,clicked,purchased,7,71,yes,yes,monthly,45,3
+1089,m,turquoise,winter,clothing,not_click,,2,21,yes,yes,weekly,49,0
+1090,m,silver,spring,accessories,clicked,added_to_cart,33,61,yes,yes,bi-weekly,40,1
+1091,m,violet,spring,accessories,clicked,purchased,27,58,yes,yes,fortnightly,38,2
+1092,l,lavender,spring,clothing,not_open,not_activated,6,80,yes,yes,fortnightly,44,3
+1098,m,black,summer,accessories,not_click,,47,27,yes,yes,weekly,58,2
+1099,s,turquoise,spring,accessories,not_open,not_activated,27,98,yes,yes,weekly,49,1
+1103,m,peach,fall,clothing,not_click,,24,83,yes,yes,fortnightly,52,3
+1111,l,cyan,fall,clothing,not_click,,31,61,yes,yes,bi-weekly,28,1
+1114,m,purple,summer,accessories,clicked,added_to_cart,11,80,yes,yes,bi-weekly,28,3
+1115,l,violet,fall,clothing,clicked,only_searched,47,25,yes,yes,every 3 months,55,2
+1116,s,peach,fall,accessories,clicked,purchased,37,58,yes,yes,weekly,30,2
+1119,m,purple,summer,accessories,clicked,only_searched,11,65,yes,yes,every 3 months,49,3
+1120,m,indigo,spring,accessories,clicked,only_searched,36,36,yes,yes,weekly,34,2
+1125,m,orange,spring,clothing,clicked,only_searched,40,20,yes,yes,quarterly,42,2
+1126,m,lavender,summer,footwear,not_open,not_activated,10,90,yes,yes,weekly,27,3
+1128,xl,maroon,spring,clothing,not_click,,22,53,yes,yes,monthly,50,0
+1130,xl,white,winter,clothing,not_click,,46,65,yes,yes,fortnightly,37,1
+1133,s,teal,spring,clothing,not_open,not_activated,25,98,yes,yes,fortnightly,50,1
+1134,xl,magenta,winter,footwear,clicked,only_searched,29,36,yes,yes,weekly,36,2
+1138,xl,pink,winter,clothing,not_click,,16,91,yes,yes,every 3 months,46,3
+1140,l,purple,spring,outerwear,not_click,,42,53,yes,yes,bi-weekly,58,2
+1141,m,white,winter,clothing,not_open,not_activated,6,39,yes,yes,every 3 months,31,0
+1146,l,pink,summer,footwear,clicked,added_to_cart,30,89,yes,yes,every 3 months,31,1
+1149,m,violet,spring,clothing,not_open,not_activated,10,66,yes,yes,fortnightly,34,3
+1151,s,red,winter,accessories,clicked,purchased,50,36,yes,yes,bi-weekly,29,2
+1152,m,gray,spring,clothing,not_open,not_activated,24,86,yes,yes,weekly,41,3
+1154,m,pink,summer,clothing,clicked,purchased,6,41,yes,yes,quarterly,27,0
+1155,l,cyan,spring,clothing,clicked,only_searched,44,82,yes,yes,bi-weekly,49,1
+1158,m,charcoal,fall,accessories,clicked,only_searched,11,66,yes,yes,quarterly,37,3
+1161,s,blue,summer,accessories,not_click,,9,42,yes,yes,bi-weekly,37,0
+1163,m,blue,winter,footwear,clicked,purchased,13,92,yes,yes,weekly,47,3
+1166,m,silver,winter,clothing,clicked,purchased,21,64,yes,yes,every 3 months,51,3
+1171,s,red,spring,clothing,clicked,only_searched,33,62,yes,yes,bi-weekly,57,1
+1172,m,lavender,spring,clothing,clicked,purchased,15,55,yes,yes,annually,41,0
+1173,l,peach,spring,outerwear,clicked,purchased,42,68,yes,yes,bi-weekly,59,1
+1174,m,indigo,winter,accessories,not_click,,42,76,yes,yes,bi-weekly,44,1
+1175,m,black,winter,accessories,clicked,only_searched,19,31,yes,yes,bi-weekly,42,0
+1177,m,red,winter,clothing,not_click,,39,83,yes,yes,quarterly,36,1
+1178,m,black,spring,clothing,clicked,only_searched,24,21,yes,yes,monthly,54,0
+1183,m,maroon,spring,accessories,not_open,not_activated,45,21,yes,yes,quarterly,37,2
+1186,m,magenta,spring,clothing,not_click,,29,64,yes,yes,monthly,47,1
+1192,l,charcoal,winter,clothing,clicked,added_to_cart,50,70,yes,yes,quarterly,34,1
+1193,m,turquoise,summer,outerwear,clicked,purchased,42,56,yes,yes,quarterly,49,2
+1194,l,pink,fall,outerwear,not_click,,18,55,yes,yes,fortnightly,40,0
+1195,s,teal,winter,clothing,clicked,only_searched,6,46,yes,yes,fortnightly,50,0
+1197,m,maroon,winter,accessories,clicked,only_searched,13,88,yes,yes,bi-weekly,30,3
+1198,l,violet,fall,footwear,not_click,,26,92,yes,yes,annually,54,1
+1199,m,brown,summer,clothing,clicked,purchased,17,49,yes,yes,annually,40,0
+1200,m,indigo,fall,footwear,not_click,,3,89,yes,yes,weekly,49,3
+1204,m,orange,winter,footwear,clicked,only_searched,23,82,yes,yes,annually,40,3
+1206,m,olive,spring,accessories,clicked,purchased,38,99,yes,yes,fortnightly,52,1
+1215,m,blue,fall,outerwear,clicked,purchased,5,81,yes,yes,every 3 months,30,3
+1218,xl,cyan,fall,footwear,not_click,,12,63,yes,yes,every 3 months,50,3
+1219,m,cyan,spring,footwear,not_open,not_activated,43,79,yes,yes,every 3 months,55,1
+1223,l,magenta,fall,clothing,clicked,purchased,27,69,yes,yes,annually,58,1
+1226,s,turquoise,fall,accessories,not_click,,16,97,yes,yes,weekly,28,3
+1227,s,cyan,fall,footwear,clicked,purchased,18,91,yes,yes,bi-weekly,53,3
+1228,l,yellow,spring,clothing,clicked,purchased,19,37,yes,yes,bi-weekly,27,0
+1229,s,yellow,winter,outerwear,clicked,only_searched,1,55,yes,yes,annually,55,0
+1230,xl,maroon,winter,accessories,not_click,,39,52,yes,yes,annually,34,2
+1234,l,beige,winter,clothing,not_click,,40,73,yes,yes,every 3 months,46,1
+1235,m,indigo,fall,accessories,clicked,only_searched,2,99,yes,yes,bi-weekly,38,3
+1237,m,white,summer,accessories,clicked,added_to_cart,35,68,yes,yes,every 3 months,42,1
+1239,m,violet,winter,clothing,clicked,purchased,3,77,yes,yes,fortnightly,55,3
+1241,l,white,winter,accessories,clicked,purchased,48,79,yes,yes,annually,41,1
+1243,m,lavender,summer,clothing,clicked,only_searched,15,27,yes,yes,quarterly,56,0
+1246,m,violet,fall,clothing,clicked,purchased,30,31,yes,yes,weekly,42,2
+1251,xl,purple,winter,clothing,not_click,,24,26,yes,yes,monthly,52,0
+1252,xl,orange,spring,clothing,clicked,purchased,43,86,yes,yes,monthly,56,1
+1253,l,magenta,fall,footwear,not_open,not_activated,8,41,yes,yes,quarterly,28,0
+1254,xl,red,winter,footwear,clicked,purchased,49,23,yes,yes,annually,39,2
+1255,xl,black,spring,footwear,not_click,,2,56,yes,yes,bi-weekly,54,0
+1256,m,peach,fall,accessories,clicked,purchased,38,68,yes,yes,fortnightly,30,1
+1259,xl,gold,spring,footwear,clicked,purchased,34,87,yes,yes,every 3 months,47,1
+1263,l,brown,winter,footwear,clicked,added_to_cart,44,62,yes,yes,monthly,29,1
+1264,l,brown,winter,clothing,clicked,only_searched,1,70,yes,yes,bi-weekly,41,3
+1266,m,lavender,spring,clothing,clicked,purchased,27,79,yes,yes,weekly,32,1
+1274,l,silver,spring,clothing,clicked,added_to_cart,32,29,yes,yes,every 3 months,41,2
+1275,m,olive,spring,accessories,not_open,not_activated,37,73,yes,yes,quarterly,54,1
+1276,s,turquoise,fall,clothing,clicked,purchased,1,32,yes,yes,monthly,55,0
+1277,l,turquoise,spring,footwear,not_open,not_activated,37,68,yes,yes,weekly,51,1
+1279,m,violet,fall,clothing,not_click,,31,98,yes,yes,fortnightly,28,1
+1281,l,white,winter,clothing,not_click,,39,78,yes,yes,every 3 months,30,1
+1282,m,olive,spring,accessories,clicked,only_searched,8,81,yes,yes,bi-weekly,29,3
+1287,l,yellow,winter,accessories,not_click,,44,49,yes,yes,fortnightly,40,2
+1293,m,maroon,summer,accessories,not_open,not_activated,42,61,yes,yes,annually,26,1
+1295,m,silver,summer,clothing,clicked,only_searched,21,64,yes,yes,every 3 months,27,3
+1296,m,olive,fall,footwear,clicked,purchased,50,60,yes,yes,weekly,30,2
+1297,s,teal,spring,clothing,not_click,,16,29,yes,yes,bi-weekly,48,0
+1298,m,silver,summer,footwear,not_click,,32,85,yes,yes,annually,44,1
+1300,l,teal,fall,accessories,clicked,only_searched,42,23,yes,yes,bi-weekly,29,2
+1302,m,orange,fall,clothing,clicked,only_searched,21,54,yes,yes,weekly,42,0
+1309,l,red,summer,clothing,clicked,purchased,14,38,yes,yes,every 3 months,59,0
+1310,l,lavender,summer,clothing,clicked,only_searched,41,21,yes,yes,quarterly,32,2
+1311,l,brown,winter,clothing,not_open,not_activated,38,59,yes,yes,every 3 months,43,2
+1312,m,maroon,fall,footwear,clicked,only_searched,12,87,yes,yes,annually,32,3
+1315,s,magenta,summer,footwear,not_click,,49,67,yes,yes,annually,42,1
+1317,s,lavender,spring,accessories,clicked,purchased,14,32,yes,yes,bi-weekly,28,0
+1318,m,green,spring,clothing,not_click,,19,43,yes,yes,monthly,28,0
+1319,m,maroon,spring,clothing,not_open,not_activated,19,93,yes,yes,bi-weekly,52,3
+1321,xl,teal,fall,accessories,clicked,purchased,19,31,yes,yes,annually,56,0
+1322,l,orange,winter,clothing,not_open,not_activated,45,84,yes,yes,every 3 months,59,1
+1324,m,yellow,spring,clothing,not_click,,15,62,yes,yes,every 3 months,58,3
+1325,s,orange,summer,accessories,not_click,,11,77,yes,yes,fortnightly,39,3
+1327,m,indigo,spring,footwear,not_open,not_activated,17,50,yes,yes,monthly,40,0
+1328,m,turquoise,winter,outerwear,clicked,purchased,37,40,yes,yes,weekly,52,2
+1329,m,orange,winter,clothing,clicked,only_searched,40,97,yes,yes,weekly,37,1
+1332,m,lavender,spring,clothing,not_click,,8,91,yes,yes,bi-weekly,38,3
+1335,s,white,spring,outerwear,not_open,not_activated,12,52,yes,yes,monthly,46,0
+1336,m,lavender,fall,footwear,not_click,,26,49,yes,yes,weekly,56,2
+1340,l,olive,winter,accessories,clicked,purchased,5,56,yes,yes,every 3 months,36,0
+1341,m,peach,fall,accessories,clicked,only_searched,5,72,yes,yes,every 3 months,40,3
+1343,xl,yellow,summer,accessories,clicked,purchased,11,43,yes,yes,monthly,57,0
+1345,s,violet,fall,clothing,not_click,,14,37,yes,yes,annually,56,0
+1346,m,white,fall,clothing,clicked,purchased,42,21,yes,yes,weekly,40,2
+1347,l,white,winter,clothing,not_click,,15,91,yes,yes,bi-weekly,44,3
+1348,m,cyan,summer,clothing,clicked,purchased,47,95,yes,yes,monthly,44,1
+1351,m,orange,fall,accessories,not_open,not_activated,1,71,yes,yes,every 3 months,31,3
+1352,l,maroon,summer,outerwear,not_click,,28,31,yes,yes,quarterly,30,2
+1354,m,teal,winter,clothing,not_click,,4,83,yes,yes,every 3 months,39,3
+1356,m,blue,summer,clothing,not_click,,50,91,yes,yes,bi-weekly,59,1
+1360,s,cyan,winter,clothing,clicked,purchased,26,68,yes,yes,fortnightly,27,3
+1361,l,black,fall,clothing,clicked,only_searched,4,43,yes,yes,annually,56,0
+1362,m,beige,fall,clothing,clicked,added_to_cart,39,32,yes,yes,monthly,49,2
+1363,m,gray,fall,outerwear,not_click,,29,46,yes,yes,weekly,41,2
+1364,l,red,summer,clothing,not_click,,47,90,yes,yes,quarterly,36,1
+1366,m,magenta,winter,accessories,not_click,,18,69,yes,yes,fortnightly,28,3
+1367,m,magenta,fall,accessories,clicked,purchased,10,40,yes,yes,fortnightly,45,0
+1372,m,charcoal,spring,clothing,clicked,only_searched,42,64,yes,yes,monthly,40,1
+1376,l,brown,spring,footwear,not_click,,8,31,yes,yes,annually,42,0
+1378,l,olive,spring,accessories,not_click,,42,54,yes,yes,monthly,33,2
+1379,xl,lavender,fall,outerwear,clicked,only_searched,24,49,yes,yes,weekly,37,0
+1381,s,beige,winter,footwear,clicked,purchased,41,35,yes,yes,fortnightly,51,2
+1384,m,beige,spring,accessories,not_open,not_activated,4,58,yes,yes,monthly,36,0
+1385,m,beige,fall,footwear,clicked,only_searched,8,96,yes,yes,weekly,46,3
+1386,m,indigo,fall,accessories,clicked,purchased,1,64,yes,yes,bi-weekly,41,3
+1392,s,white,winter,clothing,not_click,,38,29,yes,yes,annually,53,2
+1394,l,yellow,spring,accessories,not_click,,14,58,yes,yes,fortnightly,46,0
+1395,l,magenta,fall,outerwear,clicked,purchased,39,43,yes,yes,weekly,26,2
+1396,l,turquoise,spring,accessories,clicked,only_searched,40,32,yes,yes,bi-weekly,47,2
+1398,s,magenta,summer,accessories,clicked,purchased,33,67,yes,yes,annually,55,1
+1399,m,cyan,summer,clothing,not_click,,25,45,yes,yes,weekly,30,0
+1405,m,charcoal,winter,accessories,clicked,only_searched,10,28,yes,yes,weekly,36,0
+1406,m,peach,winter,clothing,not_click,,39,100,yes,yes,monthly,33,1
+1408,xl,charcoal,spring,accessories,not_open,not_activated,11,61,yes,yes,annually,56,3
+1409,m,yellow,winter,clothing,clicked,purchased,38,58,yes,yes,weekly,58,2
+1410,m,blue,spring,accessories,not_click,,41,50,yes,yes,fortnightly,34,2
+1412,l,green,summer,clothing,clicked,purchased,13,24,yes,yes,quarterly,48,0
+1414,s,indigo,fall,clothing,not_click,,12,79,yes,yes,quarterly,51,3
+1415,m,black,summer,clothing,not_click,,3,51,yes,yes,bi-weekly,29,0
+1417,l,silver,summer,footwear,clicked,added_to_cart,46,56,yes,yes,quarterly,48,2
+1420,m,orange,summer,accessories,not_click,,4,75,yes,yes,quarterly,43,3
+1423,l,charcoal,fall,clothing,clicked,added_to_cart,3,27,yes,yes,bi-weekly,44,0
+1424,s,black,fall,footwear,clicked,purchased,12,60,yes,yes,every 3 months,51,3
+1426,s,white,winter,outerwear,clicked,only_searched,39,40,yes,yes,annually,59,2
+1428,s,orange,summer,accessories,not_click,,8,90,yes,yes,annually,31,3
+1432,m,cyan,fall,clothing,clicked,only_searched,29,88,yes,yes,quarterly,39,1
+1433,l,black,winter,accessories,clicked,purchased,32,33,yes,yes,quarterly,34,2
+1435,l,maroon,summer,clothing,not_click,,21,64,yes,yes,bi-weekly,59,3
+1436,xl,black,fall,accessories,clicked,added_to_cart,41,95,yes,yes,weekly,45,1
+1439,m,cyan,spring,outerwear,clicked,added_to_cart,24,38,yes,yes,monthly,58,0
+1442,s,turquoise,summer,clothing,not_click,,3,25,yes,yes,every 3 months,34,0
+1444,l,teal,fall,footwear,clicked,only_searched,2,47,yes,yes,monthly,58,0
+1445,l,pink,fall,clothing,clicked,only_searched,26,36,yes,yes,quarterly,32,0
+1452,m,maroon,fall,outerwear,clicked,purchased,35,34,yes,yes,quarterly,54,2
+1454,s,teal,winter,footwear,not_open,not_activated,41,93,yes,yes,fortnightly,36,1
+1457,s,olive,spring,outerwear,not_click,,30,100,yes,yes,every 3 months,59,1
+1458,s,gray,spring,clothing,clicked,purchased,47,57,yes,yes,fortnightly,58,2
+1462,s,red,summer,accessories,clicked,purchased,42,95,yes,yes,quarterly,54,1
+1464,m,beige,summer,accessories,not_open,not_activated,1,49,yes,yes,monthly,54,0
+1466,xl,violet,winter,accessories,not_click,,42,72,yes,yes,bi-weekly,46,1
+1468,xl,olive,winter,accessories,not_click,,16,27,yes,yes,fortnightly,30,0
+1470,m,purple,winter,accessories,clicked,purchased,31,98,yes,yes,every 3 months,28,1
+1472,s,gray,spring,accessories,not_click,,48,71,yes,yes,every 3 months,31,1
+1475,s,pink,fall,clothing,clicked,only_searched,6,72,yes,yes,monthly,31,3
+1481,m,gold,fall,accessories,not_click,,26,74,yes,yes,quarterly,39,1
+1484,s,yellow,summer,accessories,not_click,,12,61,yes,yes,bi-weekly,39,3
+1485,m,teal,summer,clothing,clicked,purchased,22,46,yes,yes,every 3 months,49,0
+1488,l,black,summer,clothing,clicked,added_to_cart,26,44,yes,yes,annually,40,2
+1492,s,black,summer,clothing,clicked,purchased,10,54,yes,yes,quarterly,27,0
+1499,m,teal,summer,clothing,clicked,purchased,46,32,yes,yes,fortnightly,59,2
+1502,xl,silver,spring,clothing,not_click,,13,55,yes,yes,every 3 months,37,0
+1504,m,maroon,fall,outerwear,clicked,purchased,46,30,yes,yes,quarterly,50,2
+1506,m,teal,summer,accessories,clicked,purchased,39,20,yes,yes,monthly,46,2
+1507,l,beige,fall,clothing,not_open,not_activated,44,30,yes,yes,quarterly,35,2
+1512,m,violet,winter,clothing,clicked,purchased,48,91,yes,yes,weekly,34,1
+1516,s,turquoise,fall,clothing,not_click,,34,93,yes,yes,weekly,39,1
+1518,m,violet,spring,accessories,clicked,only_searched,12,41,yes,yes,quarterly,57,0
+1520,l,cyan,fall,accessories,clicked,only_searched,40,73,yes,yes,weekly,50,1
+1522,m,white,summer,accessories,clicked,added_to_cart,50,59,yes,yes,weekly,29,2
+1524,m,white,summer,clothing,clicked,purchased,35,88,yes,yes,annually,54,1
+1526,m,indigo,winter,accessories,not_open,not_activated,22,31,yes,yes,fortnightly,29,0
+1528,l,red,fall,accessories,clicked,added_to_cart,33,75,yes,yes,fortnightly,26,1
+1531,m,teal,spring,outerwear,clicked,only_searched,22,21,yes,yes,quarterly,59,0
+1534,m,gold,summer,footwear,clicked,purchased,16,59,yes,yes,quarterly,50,3
+1535,m,green,summer,clothing,clicked,only_searched,26,66,yes,yes,fortnightly,55,1
+1541,m,red,winter,clothing,clicked,purchased,14,95,yes,yes,monthly,28,3
+1543,m,maroon,winter,clothing,not_click,,43,44,yes,yes,weekly,59,2
+1545,m,maroon,spring,accessories,clicked,purchased,17,24,yes,yes,bi-weekly,30,0
+1546,m,black,winter,accessories,not_click,,49,43,yes,yes,annually,48,2
+1548,l,teal,summer,accessories,not_click,,40,46,yes,yes,quarterly,46,2
+1553,l,purple,spring,clothing,clicked,purchased,20,49,yes,yes,monthly,54,0
+1554,m,indigo,spring,clothing,not_open,not_activated,21,45,yes,yes,quarterly,27,0
+1557,m,gold,fall,clothing,not_click,,26,57,yes,yes,quarterly,43,2
+1559,xl,teal,fall,accessories,not_click,,24,75,yes,yes,every 3 months,35,3
+1560,l,beige,fall,accessories,not_click,,23,94,yes,yes,fortnightly,43,3
+1563,m,purple,winter,accessories,not_open,not_activated,23,75,yes,yes,bi-weekly,37,3
+1566,l,peach,fall,accessories,clicked,only_searched,48,93,yes,yes,annually,58,1
+1567,s,green,winter,footwear,not_click,,21,99,yes,yes,bi-weekly,48,3
+1568,m,turquoise,spring,accessories,clicked,added_to_cart,9,33,yes,yes,monthly,30,0
+1569,l,yellow,spring,footwear,not_open,not_activated,8,76,yes,yes,monthly,51,3
+1571,l,brown,winter,clothing,clicked,only_searched,3,41,yes,yes,every 3 months,30,0
+1572,l,silver,winter,accessories,clicked,purchased,11,88,yes,yes,fortnightly,28,3
+1574,l,indigo,summer,clothing,not_click,,25,31,yes,yes,weekly,36,0
+1576,m,turquoise,spring,clothing,clicked,only_searched,28,28,yes,yes,fortnightly,52,2
+1577,m,white,spring,clothing,clicked,added_to_cart,36,75,yes,yes,monthly,56,1
+1580,m,violet,summer,outerwear,not_click,,6,80,yes,yes,monthly,35,3
+1584,xl,yellow,summer,accessories,not_click,,8,92,yes,yes,annually,37,3
+1586,m,charcoal,fall,clothing,not_click,,40,25,yes,yes,fortnightly,37,2
+1588,m,beige,summer,clothing,not_click,,33,99,yes,yes,fortnightly,41,1
+1589,l,cyan,winter,accessories,not_click,,3,24,yes,yes,monthly,48,0
+1590,m,silver,summer,footwear,not_open,not_activated,48,72,yes,yes,weekly,42,1
+1591,s,pink,winter,clothing,not_click,,8,80,yes,yes,annually,54,3
+1593,m,cyan,summer,footwear,not_open,not_activated,10,83,yes,yes,every 3 months,56,3
+1595,xl,charcoal,summer,accessories,clicked,purchased,3,41,yes,yes,fortnightly,40,0
+1596,s,magenta,spring,accessories,not_open,not_activated,45,35,yes,yes,fortnightly,34,2
+1597,s,pink,fall,accessories,clicked,purchased,15,30,yes,yes,monthly,42,0
+1599,m,teal,fall,accessories,clicked,purchased,21,85,yes,yes,bi-weekly,47,3
+1600,m,orange,winter,clothing,clicked,only_searched,22,54,yes,yes,bi-weekly,48,0
+1603,s,charcoal,winter,accessories,not_open,not_activated,13,48,yes,yes,fortnightly,54,0
+1608,s,gray,fall,clothing,clicked,purchased,43,72,yes,yes,quarterly,49,1
+1610,s,brown,fall,clothing,not_click,,3,93,yes,yes,monthly,33,3
+1612,l,yellow,winter,clothing,not_click,,6,26,yes,yes,monthly,41,0
+1614,s,black,summer,accessories,clicked,only_searched,6,31,yes,yes,fortnightly,26,0
+1615,s,gray,summer,clothing,clicked,only_searched,22,41,yes,yes,bi-weekly,30,0
+1618,m,peach,winter,clothing,clicked,only_searched,50,64,yes,yes,fortnightly,43,1
+1627,l,orange,summer,footwear,clicked,added_to_cart,45,35,yes,yes,bi-weekly,32,2
+1633,s,white,summer,accessories,clicked,added_to_cart,50,28,yes,yes,every 3 months,35,2
+1635,s,orange,summer,outerwear,clicked,purchased,30,23,yes,yes,every 3 months,28,2
+1642,l,violet,summer,clothing,not_click,,1,32,yes,yes,every 3 months,50,0
+1644,l,pink,summer,accessories,clicked,purchased,6,77,yes,yes,monthly,38,3
+1646,l,green,summer,accessories,not_click,,36,36,yes,yes,every 3 months,53,2
+1647,s,silver,summer,accessories,not_click,,20,77,yes,yes,every 3 months,58,3
+1649,m,gray,summer,clothing,clicked,purchased,22,69,yes,yes,monthly,36,3
+1650,m,white,summer,clothing,not_click,,3,63,yes,yes,quarterly,58,3
+1654,l,silver,winter,accessories,clicked,only_searched,29,93,yes,yes,bi-weekly,31,1
+1655,l,gray,spring,accessories,not_click,,14,25,yes,yes,quarterly,43,0
+1656,l,gold,spring,clothing,not_click,,4,81,yes,yes,monthly,37,3
+1660,m,black,fall,accessories,clicked,purchased,44,37,yes,yes,annually,53,2
+1664,xl,gold,summer,clothing,not_click,,1,22,yes,yes,bi-weekly,43,0
+1666,l,pink,fall,outerwear,clicked,added_to_cart,49,41,yes,yes,monthly,40,2
+1667,m,blue,summer,clothing,clicked,only_searched,47,64,yes,yes,annually,51,1
+1668,l,brown,winter,accessories,clicked,only_searched,24,40,yes,yes,every 3 months,51,0
+1670,l,maroon,winter,clothing,clicked,purchased,22,59,yes,yes,quarterly,42,3
+1672,m,olive,winter,clothing,clicked,only_searched,25,22,yes,yes,weekly,31,0
+1676,m,beige,spring,clothing,not_open,not_activated,21,90,yes,yes,annually,35,3
+1677,m,cyan,winter,accessories,clicked,only_searched,34,44,yes,yes,weekly,27,2
+1679,s,magenta,summer,clothing,clicked,purchased,30,71,no,no,fortnightly,41,1
+1686,m,pink,winter,clothing,not_click,,43,48,no,no,bi-weekly,33,2
+1689,s,peach,winter,accessories,not_open,not_activated,13,26,no,no,fortnightly,28,0
+1691,m,black,summer,outerwear,clicked,only_searched,1,30,no,no,annually,40,0
+1693,m,beige,winter,accessories,clicked,added_to_cart,33,75,no,no,bi-weekly,56,1
+1697,s,turquoise,spring,accessories,clicked,only_searched,7,69,no,no,bi-weekly,31,3
+1703,xl,yellow,summer,clothing,not_click,,48,83,no,no,weekly,54,1
+1704,m,black,spring,accessories,clicked,purchased,12,22,no,no,annually,39,0
+1705,m,lavender,summer,footwear,clicked,added_to_cart,19,20,no,no,every 3 months,56,0
+1706,l,cyan,summer,accessories,clicked,added_to_cart,49,29,no,no,bi-weekly,39,2
+1707,m,brown,spring,accessories,not_open,not_activated,25,87,no,no,fortnightly,37,1
+1709,l,cyan,spring,footwear,clicked,only_searched,1,58,no,no,quarterly,35,0
+1710,m,pink,winter,clothing,clicked,purchased,19,83,no,no,annually,45,3
+1715,s,charcoal,summer,clothing,clicked,only_searched,15,71,no,no,monthly,30,3
+1718,l,orange,summer,clothing,clicked,purchased,16,50,no,no,bi-weekly,29,0
+1719,l,pink,winter,clothing,not_click,,14,96,no,no,every 3 months,54,3
+1722,s,magenta,spring,accessories,not_click,,24,28,no,no,monthly,34,0
+1723,l,violet,summer,clothing,clicked,added_to_cart,14,51,no,no,fortnightly,46,0
+1725,s,teal,winter,footwear,not_click,,21,72,no,no,weekly,42,3
+1726,m,indigo,spring,accessories,not_click,,32,33,no,no,quarterly,45,2
+1730,m,brown,winter,clothing,not_open,not_activated,12,21,no,no,fortnightly,47,0
+1733,s,charcoal,winter,accessories,clicked,purchased,36,50,no,no,every 3 months,45,2
+1735,l,brown,spring,clothing,not_open,not_activated,16,98,no,no,quarterly,31,3
+1736,m,purple,winter,clothing,not_open,not_activated,31,34,no,no,annually,58,2
+1737,m,purple,summer,clothing,clicked,purchased,43,61,no,no,quarterly,57,1
+1738,l,gray,summer,accessories,not_click,,50,98,no,no,bi-weekly,42,1
+1742,xl,teal,winter,clothing,clicked,purchased,20,51,no,no,monthly,41,0
+1746,l,red,winter,clothing,not_click,,27,27,no,no,weekly,40,2
+1749,l,teal,winter,clothing,clicked,only_searched,41,93,no,no,annually,34,1
+1753,l,blue,winter,footwear,clicked,only_searched,14,29,no,no,quarterly,34,0
+1756,xl,charcoal,spring,accessories,clicked,added_to_cart,45,20,no,no,monthly,56,2
+1757,s,cyan,fall,accessories,not_open,not_activated,14,55,no,no,weekly,49,0
+1763,m,brown,summer,footwear,not_click,,41,42,no,no,fortnightly,36,2
+1764,m,lavender,winter,accessories,clicked,added_to_cart,28,93,no,no,annually,37,1
+1771,m,pink,fall,accessories,clicked,purchased,34,22,no,no,weekly,53,2
+1775,m,lavender,spring,clothing,clicked,purchased,6,78,no,no,weekly,46,3
+1777,l,cyan,summer,outerwear,clicked,only_searched,10,64,no,no,every 3 months,56,3
+1780,m,charcoal,winter,accessories,not_click,,41,62,no,no,weekly,29,1
+1783,m,lavender,fall,clothing,not_open,not_activated,40,88,no,no,fortnightly,52,1
+1785,l,yellow,summer,accessories,clicked,only_searched,4,31,no,no,quarterly,32,0
+1786,s,peach,fall,accessories,clicked,only_searched,22,29,no,no,monthly,47,0
+1787,m,brown,spring,outerwear,not_click,,22,34,no,no,monthly,45,0
+1790,l,peach,spring,clothing,not_click,,43,34,no,no,quarterly,52,2
+1791,s,violet,summer,accessories,not_click,,31,26,no,no,bi-weekly,50,2
+1793,m,peach,fall,footwear,clicked,only_searched,22,59,no,no,every 3 months,38,3
+1799,l,magenta,winter,clothing,not_click,,1,82,no,no,weekly,40,3
+1800,m,charcoal,fall,clothing,not_click,,47,48,no,no,weekly,32,2
+1802,m,turquoise,spring,clothing,not_click,,48,57,no,no,fortnightly,33,2
+1803,l,turquoise,winter,clothing,not_click,,31,96,no,no,bi-weekly,57,1
+1806,l,gold,spring,clothing,not_click,,46,62,no,no,weekly,41,1
+1807,m,green,fall,accessories,clicked,purchased,24,67,no,no,annually,58,3
+1810,s,blue,fall,accessories,clicked,only_searched,6,99,no,no,fortnightly,58,3
+1811,m,magenta,fall,clothing,clicked,purchased,16,28,no,no,bi-weekly,41,0
+1815,m,white,summer,clothing,not_click,,24,92,no,no,quarterly,32,1
+1816,l,white,winter,footwear,clicked,purchased,48,72,no,no,every 3 months,51,1
+1817,m,purple,summer,accessories,clicked,purchased,4,79,no,no,weekly,26,3
+1818,m,white,summer,clothing,clicked,purchased,20,27,no,no,weekly,32,0
+1819,m,white,fall,accessories,clicked,only_searched,47,39,no,no,every 3 months,58,2
+1820,s,peach,spring,clothing,not_open,not_activated,50,86,no,no,quarterly,51,1
+1822,m,teal,spring,clothing,clicked,only_searched,29,53,no,no,quarterly,57,2
+1825,xl,magenta,winter,clothing,not_open,not_activated,31,47,no,no,monthly,58,2
+1829,l,gray,spring,outerwear,not_open,not_activated,45,80,no,no,every 3 months,33,1
+1830,m,white,spring,accessories,not_click,,50,96,no,no,quarterly,30,1
+1831,m,blue,winter,accessories,not_click,,7,80,no,no,annually,50,3
+1834,m,yellow,spring,accessories,not_open,not_activated,19,53,no,no,fortnightly,34,0
+1840,xl,purple,winter,clothing,not_click,,32,78,no,no,annually,32,1
+1841,m,gold,winter,footwear,not_click,,46,98,no,no,every 3 months,42,1
+1842,l,blue,winter,clothing,clicked,only_searched,7,57,no,no,every 3 months,31,0
+1844,m,charcoal,fall,outerwear,not_click,,32,76,no,no,monthly,36,1
+1846,m,orange,winter,footwear,clicked,added_to_cart,39,78,no,no,quarterly,51,1
+1850,m,maroon,winter,clothing,not_click,,35,40,no,no,monthly,30,2
+1852,s,lavender,fall,clothing,not_click,,4,80,no,no,fortnightly,28,3
+1853,xl,violet,winter,clothing,not_click,,32,80,no,no,weekly,41,1
+1854,xl,olive,spring,clothing,clicked,purchased,11,67,no,no,fortnightly,29,3
+1858,l,maroon,summer,clothing,clicked,added_to_cart,33,85,no,no,monthly,51,1
+1860,l,beige,summer,accessories,not_open,not_activated,29,26,no,no,fortnightly,54,2
+1862,s,peach,fall,footwear,clicked,only_searched,19,60,no,no,monthly,29,3
+1863,m,turquoise,winter,accessories,not_click,,10,36,no,no,fortnightly,59,0
+1866,s,silver,summer,clothing,clicked,added_to_cart,12,62,no,no,monthly,56,3
+1867,xl,gold,winter,clothing,not_open,not_activated,9,44,no,no,fortnightly,31,0
+1868,m,brown,fall,clothing,not_click,,20,52,no,no,quarterly,45,0
+1871,l,violet,spring,clothing,not_click,,27,99,no,no,fortnightly,43,1
+1872,xl,violet,fall,clothing,not_click,,14,96,no,no,every 3 months,56,3
+1873,m,lavender,summer,clothing,clicked,purchased,24,64,no,no,monthly,43,3
+1877,m,gray,fall,clothing,not_click,,20,36,no,no,quarterly,54,0
+1879,l,magenta,summer,clothing,not_click,,5,29,no,no,monthly,34,0
+1880,l,charcoal,spring,clothing,clicked,only_searched,46,33,no,no,bi-weekly,56,2
+1881,l,yellow,fall,clothing,not_click,,8,33,no,no,monthly,34,0
+1890,l,peach,spring,clothing,not_click,,27,57,no,no,weekly,59,2
+1895,m,purple,fall,clothing,clicked,added_to_cart,48,90,no,no,bi-weekly,42,1
+1896,l,indigo,fall,clothing,not_click,,3,61,no,no,monthly,31,3
+1897,m,gold,fall,footwear,clicked,added_to_cart,19,51,no,no,monthly,57,0
+1898,l,teal,winter,accessories,clicked,only_searched,11,97,no,no,fortnightly,53,3
+1899,l,magenta,fall,clothing,clicked,purchased,25,97,no,no,monthly,59,1
+1902,s,beige,winter,clothing,not_click,,50,76,no,no,quarterly,56,1
+1903,s,olive,spring,footwear,clicked,purchased,21,22,no,no,monthly,31,0
+1906,m,teal,summer,footwear,not_click,,14,35,no,no,fortnightly,47,0
+1910,s,black,spring,clothing,not_open,not_activated,12,84,no,no,monthly,50,3
+1911,s,yellow,fall,footwear,not_click,,13,38,no,no,quarterly,29,0
+1913,s,charcoal,winter,clothing,not_click,,5,56,no,no,bi-weekly,29,0
+1914,m,peach,winter,clothing,not_click,,29,48,no,no,annually,49,2
+1915,l,green,fall,clothing,not_click,,40,97,no,no,fortnightly,28,1
+1916,m,magenta,fall,accessories,not_open,not_activated,44,74,no,no,weekly,51,1
+1917,s,beige,winter,clothing,not_click,,3,50,no,no,bi-weekly,26,0
+1919,s,purple,summer,clothing,clicked,only_searched,33,33,no,no,monthly,35,2
+1921,m,purple,spring,clothing,not_click,,40,84,no,no,every 3 months,51,1
+1925,m,gray,fall,outerwear,clicked,purchased,42,63,no,no,quarterly,30,1
+1926,l,black,winter,footwear,clicked,purchased,44,32,no,no,fortnightly,59,2
+1928,m,pink,summer,clothing,not_click,,8,29,no,no,every 3 months,40,0
+1930,l,brown,fall,clothing,clicked,purchased,46,33,no,no,quarterly,59,2
+1933,m,white,spring,clothing,clicked,only_searched,47,36,no,no,every 3 months,42,2
+1934,l,violet,summer,footwear,not_open,not_activated,28,67,no,no,annually,48,1
+1935,l,gold,winter,outerwear,clicked,purchased,23,43,no,no,annually,34,0
+1938,m,olive,summer,clothing,clicked,purchased,11,53,no,no,monthly,43,0
+1939,l,blue,spring,clothing,not_click,,39,23,no,no,bi-weekly,46,2
+1941,l,gray,fall,accessories,not_open,not_activated,48,89,no,no,fortnightly,50,1
+1942,xl,peach,winter,footwear,clicked,added_to_cart,46,99,no,no,quarterly,55,1
+1945,m,gold,winter,clothing,clicked,added_to_cart,49,45,no,no,every 3 months,30,2
+1948,m,gray,summer,clothing,clicked,purchased,2,32,no,no,monthly,59,0
+1951,l,blue,summer,accessories,clicked,only_searched,26,78,no,no,every 3 months,43,1
+1952,l,gold,summer,accessories,not_click,,32,53,no,no,bi-weekly,33,2
+1953,l,yellow,summer,footwear,clicked,only_searched,50,82,no,no,bi-weekly,57,1
+1955,m,pink,winter,accessories,not_click,,3,77,no,no,quarterly,26,3
+1956,m,pink,winter,clothing,not_click,,37,56,no,no,monthly,50,2
+1959,m,gray,winter,clothing,clicked,purchased,47,67,no,no,quarterly,39,1
+1960,m,white,fall,footwear,not_open,not_activated,7,90,no,no,every 3 months,46,3
+1961,l,red,summer,clothing,clicked,added_to_cart,40,72,no,no,annually,57,1
+1962,l,black,summer,footwear,clicked,only_searched,45,59,no,no,quarterly,47,2
+1964,l,pink,spring,clothing,not_open,not_activated,11,30,no,no,weekly,52,0
+1965,s,cyan,summer,clothing,clicked,added_to_cart,50,51,no,no,monthly,40,2
+1968,l,yellow,fall,clothing,not_click,,4,81,no,no,annually,37,3
+1971,m,indigo,spring,accessories,not_click,,4,94,no,no,bi-weekly,28,3
+1973,m,silver,summer,accessories,clicked,purchased,48,31,no,no,every 3 months,54,2
+1975,m,peach,winter,accessories,clicked,purchased,2,44,no,no,fortnightly,27,0
+1976,l,turquoise,fall,outerwear,clicked,only_searched,4,77,no,no,quarterly,53,3
+1981,m,green,winter,footwear,clicked,added_to_cart,25,94,no,no,fortnightly,51,1
+1983,m,turquoise,summer,accessories,clicked,purchased,32,77,no,no,monthly,41,1
+1985,m,black,summer,clothing,clicked,only_searched,26,58,no,no,fortnightly,26,2
+1989,m,gold,winter,clothing,clicked,only_searched,26,79,no,no,weekly,46,1
+1990,s,charcoal,spring,accessories,clicked,only_searched,39,42,no,no,bi-weekly,35,2
+1991,l,white,spring,accessories,not_open,not_activated,15,95,no,no,annually,32,3
+1992,m,brown,summer,footwear,not_click,,1,29,no,no,every 3 months,46,0
+1994,s,purple,spring,clothing,clicked,added_to_cart,17,96,no,no,weekly,32,3
+1995,m,brown,fall,accessories,clicked,added_to_cart,24,66,no,no,weekly,33,3
+2002,s,purple,winter,accessories,not_click,,2,90,no,no,fortnightly,51,3
+2005,l,blue,fall,footwear,clicked,purchased,13,70,no,no,bi-weekly,44,3
+2007,s,pink,fall,accessories,clicked,added_to_cart,2,97,no,no,annually,58,3
+2012,m,beige,spring,footwear,clicked,added_to_cart,4,94,no,no,monthly,57,3
+2013,l,green,fall,clothing,clicked,purchased,5,53,no,no,fortnightly,48,0
+2014,m,peach,winter,accessories,clicked,purchased,25,70,no,no,quarterly,39,3
+2015,l,black,summer,clothing,clicked,purchased,47,26,no,no,bi-weekly,51,2
+2016,s,pink,summer,accessories,clicked,purchased,8,82,no,no,fortnightly,57,3
+2020,s,red,winter,clothing,clicked,purchased,23,68,no,no,fortnightly,31,3
+2021,m,beige,winter,clothing,clicked,added_to_cart,26,23,no,no,quarterly,41,0
+2024,s,teal,winter,clothing,not_click,,28,68,no,no,bi-weekly,46,1
+2026,m,turquoise,summer,clothing,clicked,only_searched,43,29,no,no,fortnightly,42,2
+2027,m,orange,winter,accessories,clicked,purchased,45,35,no,no,every 3 months,37,2
+2033,m,maroon,winter,clothing,clicked,purchased,13,36,no,no,annually,46,0
+2036,s,yellow,summer,clothing,not_click,,43,70,no,no,weekly,53,1
+2037,s,lavender,winter,clothing,clicked,purchased,46,63,no,no,weekly,37,1
+2038,s,green,summer,accessories,not_click,,7,87,no,no,bi-weekly,39,3
+2039,l,orange,spring,clothing,not_click,,35,70,no,no,fortnightly,53,1
+2044,m,charcoal,summer,accessories,clicked,purchased,49,33,no,no,weekly,47,2
+2046,m,red,fall,accessories,clicked,purchased,26,20,no,no,quarterly,31,0
+2047,m,maroon,winter,clothing,clicked,added_to_cart,30,32,no,no,every 3 months,39,2
+2049,xl,pink,winter,footwear,not_click,,35,64,no,no,quarterly,45,1
+2051,m,teal,summer,accessories,not_click,,10,96,no,no,annually,35,3
+2053,m,gray,winter,accessories,not_click,,30,48,no,no,annually,45,2
+2056,m,silver,fall,accessories,clicked,only_searched,28,33,no,no,weekly,28,2
+2057,l,blue,spring,accessories,clicked,purchased,29,46,no,no,monthly,55,2
+2059,m,brown,winter,clothing,not_click,,17,98,no,no,quarterly,29,3
+2060,xl,beige,spring,clothing,clicked,only_searched,50,50,no,no,weekly,56,2
+2062,s,magenta,summer,clothing,clicked,purchased,22,70,no,no,annually,32,3
+2063,l,silver,fall,outerwear,not_click,,15,63,no,no,quarterly,54,3
+2066,m,blue,spring,footwear,clicked,purchased,6,40,no,no,bi-weekly,27,0
+2070,m,indigo,fall,clothing,not_open,not_activated,3,82,no,no,quarterly,36,3
+2073,m,beige,winter,accessories,clicked,added_to_cart,22,66,no,no,weekly,39,3
+2074,s,green,winter,accessories,clicked,added_to_cart,2,25,no,no,every 3 months,38,0
+2080,l,violet,summer,clothing,not_click,,16,24,no,no,quarterly,32,0
+2081,s,gray,fall,accessories,clicked,only_searched,17,47,no,no,bi-weekly,29,0
+2084,l,orange,fall,accessories,not_open,not_activated,26,59,no,no,fortnightly,41,2
+2085,s,brown,summer,clothing,clicked,purchased,43,94,no,no,quarterly,32,1
+2090,l,gold,spring,outerwear,clicked,purchased,41,57,no,no,every 3 months,37,2
+2092,xl,beige,fall,clothing,not_click,,24,97,no,no,quarterly,26,1
+2093,m,silver,fall,footwear,not_open,not_activated,27,45,no,no,weekly,42,2
+2096,m,gray,fall,clothing,not_open,not_activated,1,63,no,no,fortnightly,36,3
+2098,s,cyan,winter,footwear,not_click,,5,43,no,no,weekly,33,0
+2100,l,green,summer,clothing,clicked,purchased,50,78,no,no,annually,31,1
+2104,s,red,summer,clothing,not_click,,21,86,no,no,weekly,30,3
+2108,m,black,winter,clothing,not_click,,35,75,no,no,quarterly,46,1
+2109,xl,beige,winter,clothing,clicked,added_to_cart,4,46,no,no,quarterly,54,0
+2110,l,peach,fall,accessories,clicked,only_searched,28,31,no,no,every 3 months,59,2
+2111,l,cyan,spring,clothing,not_open,not_activated,36,93,no,no,every 3 months,52,1
+2115,m,magenta,winter,clothing,clicked,only_searched,12,51,no,no,annually,37,0
+2116,m,violet,winter,accessories,clicked,only_searched,16,85,no,no,bi-weekly,44,3
+2118,l,brown,summer,clothing,clicked,purchased,11,28,no,no,annually,27,0
+2120,m,indigo,spring,accessories,clicked,purchased,36,57,no,no,bi-weekly,58,2
+2122,m,olive,winter,accessories,not_click,,32,68,no,no,monthly,43,1
+2124,l,cyan,spring,outerwear,clicked,purchased,22,71,no,no,bi-weekly,54,3
+2125,m,teal,fall,clothing,clicked,purchased,22,60,no,no,quarterly,47,3
+2135,xl,maroon,winter,footwear,clicked,purchased,35,41,no,no,fortnightly,55,2
+2140,m,red,winter,footwear,not_open,not_activated,33,95,no,no,weekly,40,1
+2141,m,brown,fall,accessories,not_open,not_activated,36,90,no,no,fortnightly,53,1
+2143,m,maroon,winter,accessories,clicked,purchased,21,39,no,no,quarterly,47,0
+2144,l,red,fall,footwear,clicked,added_to_cart,48,66,no,no,bi-weekly,53,1
+2145,l,orange,winter,footwear,clicked,added_to_cart,25,23,no,no,quarterly,47,0
+2147,xl,white,summer,accessories,clicked,added_to_cart,45,23,no,no,every 3 months,48,2
+2148,s,charcoal,fall,clothing,clicked,added_to_cart,4,43,no,no,fortnightly,47,0
+2150,l,orange,winter,footwear,not_open,not_activated,1,21,no,no,weekly,38,0
+2151,m,orange,spring,clothing,not_click,,12,40,no,no,weekly,57,0
+2153,l,magenta,summer,clothing,not_open,not_activated,43,48,no,no,bi-weekly,38,2
+2154,m,violet,fall,clothing,not_open,not_activated,31,94,no,no,annually,35,1
+2155,m,violet,spring,accessories,not_click,,33,74,no,no,every 3 months,46,1
+2156,l,yellow,fall,accessories,clicked,added_to_cart,46,51,no,no,monthly,32,2
+2157,m,maroon,winter,clothing,not_click,,41,83,no,no,bi-weekly,38,1
+2158,l,turquoise,winter,accessories,clicked,purchased,41,68,no,no,fortnightly,41,1
+2161,l,charcoal,winter,clothing,not_click,,21,92,no,no,annually,45,3
+2164,l,gray,spring,footwear,clicked,purchased,44,60,no,no,monthly,52,2
+2165,s,olive,winter,footwear,not_click,,46,20,no,no,bi-weekly,42,2
+2167,s,purple,spring,outerwear,clicked,added_to_cart,50,88,no,no,bi-weekly,31,1
+2168,l,green,winter,clothing,clicked,purchased,33,48,no,no,fortnightly,30,2
+2170,m,brown,fall,outerwear,not_click,,32,42,no,no,bi-weekly,31,2
+2172,m,yellow,summer,clothing,clicked,only_searched,9,98,no,no,fortnightly,39,3
+2175,s,olive,spring,accessories,not_open,not_activated,1,49,no,no,annually,42,0
+2180,l,lavender,fall,clothing,not_click,,14,82,no,no,monthly,49,3
+2183,m,maroon,winter,clothing,clicked,purchased,26,99,no,no,bi-weekly,42,1
+2184,m,maroon,spring,clothing,not_click,,2,37,no,no,monthly,30,0
+2185,s,gold,spring,footwear,clicked,only_searched,16,34,no,no,every 3 months,38,0
+2186,m,violet,winter,clothing,clicked,only_searched,50,32,no,no,every 3 months,40,2
+2187,xl,teal,winter,footwear,not_click,,6,23,no,no,every 3 months,55,0
+2189,m,brown,winter,outerwear,not_click,,9,54,no,no,weekly,41,0
+2190,xl,brown,fall,clothing,not_click,,47,94,no,no,bi-weekly,38,1
+2191,s,maroon,spring,accessories,not_open,not_activated,33,75,no,no,annually,42,1
+2192,s,maroon,summer,clothing,not_open,not_activated,46,69,no,no,bi-weekly,26,1
+2194,l,turquoise,spring,clothing,not_click,,8,78,no,no,monthly,27,3
+2196,m,brown,fall,clothing,clicked,only_searched,2,62,no,no,monthly,58,3
+2198,m,indigo,summer,footwear,clicked,purchased,40,88,no,no,monthly,33,1
+2202,l,peach,spring,clothing,not_click,,10,25,no,no,annually,39,0
+2206,xl,red,fall,clothing,clicked,only_searched,27,68,no,no,weekly,46,1
+2207,l,green,spring,footwear,not_click,,25,51,no,no,fortnightly,46,2
+2209,xl,violet,summer,accessories,not_click,,23,46,no,no,monthly,28,0
+2211,m,orange,summer,accessories,clicked,added_to_cart,35,25,no,no,fortnightly,30,2
+2212,l,purple,winter,clothing,not_click,,45,89,no,no,every 3 months,50,1
+2213,m,brown,winter,clothing,clicked,only_searched,22,77,no,no,quarterly,59,3
+2217,xl,silver,winter,clothing,clicked,purchased,15,36,no,no,bi-weekly,41,0
+2220,s,purple,fall,clothing,not_click,,16,91,no,no,fortnightly,33,3
+2223,m,teal,summer,clothing,not_click,,30,66,no,no,weekly,32,1
+2224,m,gray,fall,footwear,clicked,only_searched,5,65,no,no,quarterly,30,3
+2226,s,olive,spring,accessories,clicked,added_to_cart,18,64,no,no,annually,38,3
+2229,m,green,fall,accessories,not_click,,5,50,no,no,weekly,54,0
+2231,s,teal,spring,footwear,not_open,not_activated,33,36,no,no,fortnightly,52,2
+2232,m,beige,fall,outerwear,clicked,purchased,1,49,no,no,weekly,34,0
+2234,xl,gray,summer,clothing,clicked,only_searched,48,31,no,no,monthly,38,2
+2235,s,yellow,winter,footwear,clicked,purchased,26,66,no,no,weekly,35,3
+2236,m,gray,spring,clothing,clicked,only_searched,44,82,no,no,annually,40,1
+2238,s,black,summer,footwear,not_click,,31,34,no,no,every 3 months,45,2
+2239,l,beige,winter,footwear,clicked,only_searched,18,84,no,no,weekly,40,3
+2240,l,indigo,summer,accessories,not_click,,41,96,no,no,every 3 months,42,1
+2244,m,teal,winter,clothing,not_click,,13,21,no,no,annually,56,0
+2247,m,cyan,fall,outerwear,clicked,purchased,39,96,no,no,every 3 months,49,1
+2248,l,teal,summer,accessories,clicked,added_to_cart,18,37,no,no,annually,34,0
+2250,xl,indigo,spring,accessories,clicked,added_to_cart,29,45,no,no,weekly,42,2
+2251,l,pink,summer,footwear,not_click,,19,89,no,no,weekly,41,3
+2253,s,maroon,summer,footwear,clicked,only_searched,21,96,no,no,annually,48,3
+2257,m,turquoise,fall,clothing,not_click,,33,22,no,no,quarterly,31,2
+2258,l,olive,fall,clothing,clicked,only_searched,6,32,no,no,annually,41,0
+2262,l,gold,spring,accessories,not_open,not_activated,12,76,no,no,fortnightly,58,3
+2264,xl,green,winter,accessories,clicked,only_searched,42,40,no,no,quarterly,44,2
+2266,xl,yellow,fall,outerwear,not_click,,10,94,no,no,quarterly,36,3
+2268,s,blue,spring,accessories,clicked,purchased,37,49,no,no,weekly,32,2
+2270,m,yellow,fall,clothing,not_click,,27,38,no,no,annually,49,2
+2271,l,purple,spring,clothing,clicked,purchased,7,72,no,no,weekly,27,3
+2272,m,green,summer,clothing,clicked,only_searched,49,99,no,no,quarterly,29,1
+2273,l,charcoal,spring,outerwear,not_click,,44,38,no,no,monthly,29,2
+2275,l,turquoise,spring,clothing,not_open,not_activated,38,27,no,no,fortnightly,57,2
+2282,xl,maroon,summer,clothing,clicked,added_to_cart,41,27,no,no,annually,28,2
+2284,s,black,winter,accessories,clicked,added_to_cart,34,45,no,no,fortnightly,44,2
+2286,l,pink,summer,accessories,clicked,purchased,38,100,no,no,every 3 months,34,1
+2289,m,orange,fall,accessories,not_click,,50,91,no,no,weekly,28,1
+2291,l,magenta,winter,footwear,clicked,purchased,23,48,no,no,quarterly,37,0
+2292,m,indigo,spring,outerwear,not_click,,13,30,no,no,quarterly,28,0
+2293,s,beige,spring,clothing,clicked,added_to_cart,31,34,no,no,monthly,43,2
+2294,l,green,fall,clothing,clicked,only_searched,16,68,no,no,every 3 months,37,3
+2295,m,red,winter,accessories,not_open,not_activated,40,95,no,no,annually,54,1
+2297,m,green,fall,accessories,not_open,not_activated,50,88,no,no,every 3 months,46,1
+2299,l,cyan,spring,accessories,clicked,purchased,10,87,no,no,every 3 months,40,3
+2302,l,turquoise,winter,clothing,not_open,not_activated,21,20,no,no,annually,37,0
+2303,l,pink,summer,accessories,not_open,not_activated,38,39,no,no,monthly,36,2
+2305,l,silver,winter,clothing,clicked,only_searched,9,73,no,no,fortnightly,26,3
+2307,l,silver,winter,accessories,clicked,only_searched,8,78,no,no,bi-weekly,27,3
+2308,l,green,fall,clothing,clicked,only_searched,30,96,no,no,annually,28,1
+2311,m,cyan,spring,accessories,clicked,added_to_cart,15,68,no,no,monthly,30,3
+2312,l,gold,spring,footwear,clicked,added_to_cart,10,28,no,no,every 3 months,27,0
+2315,xl,brown,winter,accessories,clicked,only_searched,12,95,no,no,every 3 months,42,3
+2318,m,purple,summer,outerwear,clicked,only_searched,28,34,no,no,monthly,47,2
+2321,m,olive,spring,footwear,not_click,,9,55,no,no,every 3 months,28,0
+2322,m,beige,winter,footwear,clicked,only_searched,27,31,no,no,fortnightly,50,2
+2323,s,lavender,spring,outerwear,clicked,only_searched,21,84,no,no,fortnightly,39,3
+2325,l,brown,winter,outerwear,clicked,purchased,19,28,no,no,annually,59,0
+2329,m,maroon,fall,clothing,not_click,,29,36,no,no,bi-weekly,45,2
+2330,s,teal,spring,accessories,clicked,purchased,42,97,no,no,annually,49,1
+2333,xl,olive,fall,accessories,clicked,purchased,10,53,no,no,monthly,36,0
+2334,m,beige,spring,clothing,clicked,only_searched,1,77,no,no,every 3 months,33,3
+2335,l,green,summer,footwear,clicked,purchased,7,79,no,no,monthly,49,3
+2336,m,black,summer,outerwear,not_click,,10,37,no,no,fortnightly,31,0
+2338,s,violet,fall,footwear,clicked,added_to_cart,5,76,no,no,annually,39,3
+2342,l,teal,summer,outerwear,clicked,only_searched,22,31,no,no,every 3 months,56,0
+2345,xl,lavender,fall,footwear,not_open,not_activated,14,92,no,no,bi-weekly,34,3
+2346,s,orange,winter,clothing,clicked,added_to_cart,23,32,no,no,every 3 months,28,0
+2348,s,gray,fall,accessories,clicked,purchased,46,64,no,no,every 3 months,37,1
+2349,m,orange,spring,footwear,clicked,added_to_cart,16,84,no,no,every 3 months,54,3
+2351,m,turquoise,winter,footwear,not_click,,21,26,no,no,annually,57,0
+2355,m,blue,summer,clothing,not_click,,27,78,no,no,monthly,56,1
+2357,m,gray,summer,accessories,clicked,only_searched,27,58,no,no,quarterly,57,2
+2358,l,cyan,fall,clothing,clicked,only_searched,40,67,no,no,bi-weekly,53,1
+2359,l,pink,spring,clothing,clicked,only_searched,38,93,no,no,quarterly,53,1
+2361,l,silver,fall,accessories,clicked,only_searched,27,80,no,no,every 3 months,49,1
+2363,m,brown,fall,clothing,clicked,only_searched,24,41,no,no,monthly,27,0
+2366,s,peach,winter,footwear,clicked,only_searched,32,91,no,no,monthly,52,1
+2367,l,brown,winter,footwear,not_click,,32,66,no,no,fortnightly,30,1
+2369,m,lavender,summer,accessories,clicked,only_searched,6,38,no,no,every 3 months,29,0
+2371,m,black,spring,footwear,clicked,only_searched,38,71,no,no,weekly,51,1
+2373,xl,silver,spring,footwear,clicked,only_searched,9,39,no,no,fortnightly,50,0
+2374,m,gray,spring,clothing,clicked,only_searched,21,20,no,no,every 3 months,37,0
+2378,l,magenta,fall,clothing,clicked,purchased,22,94,no,no,annually,44,3
+2379,l,teal,summer,accessories,not_open,not_activated,37,71,no,no,bi-weekly,26,1
+2380,m,peach,spring,accessories,not_open,not_activated,22,77,no,no,monthly,40,3
+2381,m,black,fall,accessories,not_open,not_activated,36,66,no,no,fortnightly,41,1
+2386,m,brown,fall,accessories,clicked,purchased,12,31,no,no,weekly,41,0
+2388,m,gold,summer,accessories,not_open,not_activated,14,95,no,no,monthly,36,3
+2392,m,black,winter,clothing,clicked,purchased,31,74,no,no,quarterly,42,1
+2393,l,silver,spring,clothing,clicked,added_to_cart,36,62,no,no,annually,40,1
+2394,m,brown,winter,clothing,clicked,only_searched,38,97,no,no,every 3 months,58,1
+2395,l,peach,fall,footwear,clicked,only_searched,23,47,no,no,fortnightly,40,0
+2397,m,olive,spring,clothing,clicked,purchased,20,82,no,no,weekly,38,3
+2398,l,black,fall,accessories,not_click,,41,26,no,no,monthly,37,2
+2403,m,brown,winter,accessories,clicked,only_searched,31,89,no,no,weekly,45,1
+2405,l,cyan,winter,clothing,clicked,purchased,23,33,no,no,bi-weekly,28,0
+2408,m,beige,summer,clothing,not_click,,11,38,no,no,bi-weekly,52,0
+2410,l,yellow,spring,accessories,not_click,,47,37,no,no,every 3 months,26,2
+2412,m,cyan,summer,clothing,not_open,not_activated,35,96,no,no,every 3 months,49,1
+2413,m,pink,winter,outerwear,clicked,only_searched,8,51,no,no,bi-weekly,53,0
+2415,m,lavender,summer,clothing,clicked,only_searched,14,26,no,no,bi-weekly,26,0
+2417,s,black,summer,footwear,clicked,only_searched,26,83,no,no,every 3 months,59,1
+2420,m,blue,fall,clothing,clicked,only_searched,11,40,no,no,every 3 months,26,0
+2421,s,green,winter,outerwear,not_click,,28,87,no,no,annually,41,1
+2423,m,peach,winter,accessories,not_open,not_activated,45,82,no,no,weekly,30,1
+2424,m,purple,summer,accessories,not_open,not_activated,7,81,no,no,every 3 months,49,3
+2425,m,peach,winter,accessories,clicked,purchased,28,57,no,no,bi-weekly,49,2
+2428,m,purple,spring,outerwear,not_click,,45,26,no,no,quarterly,27,2
+2430,xl,maroon,summer,footwear,not_click,,47,57,no,no,fortnightly,57,2
+2432,s,olive,fall,clothing,clicked,added_to_cart,27,73,no,no,every 3 months,34,1
+2433,m,peach,winter,outerwear,clicked,added_to_cart,43,66,no,no,monthly,59,1
+2434,m,blue,spring,clothing,not_click,,16,73,no,no,bi-weekly,54,3
+2437,m,yellow,fall,clothing,clicked,purchased,38,24,no,no,quarterly,52,2
+2438,xl,magenta,winter,footwear,clicked,purchased,34,59,no,no,weekly,43,2
+2439,s,cyan,winter,clothing,not_open,not_activated,30,20,no,no,weekly,32,2
+2441,m,red,spring,clothing,clicked,added_to_cart,47,90,no,no,annually,31,1
+2442,m,black,fall,accessories,not_open,not_activated,5,36,no,no,monthly,45,0
+2445,s,gold,fall,accessories,clicked,added_to_cart,15,65,no,no,bi-weekly,47,3
+2447,l,peach,spring,clothing,clicked,purchased,7,65,no,no,monthly,38,3
+2448,l,peach,fall,clothing,not_click,,10,47,no,no,fortnightly,59,0
+2450,s,violet,fall,outerwear,not_open,not_activated,31,56,no,no,fortnightly,26,2
+2455,m,magenta,winter,accessories,not_click,,33,72,no,no,annually,32,1
+2457,m,green,winter,clothing,not_click,,5,83,no,no,monthly,59,3
+2458,m,maroon,fall,accessories,clicked,purchased,23,37,no,no,quarterly,53,0
+2462,l,red,summer,accessories,clicked,only_searched,19,86,no,no,weekly,28,3
+2471,xl,pink,fall,clothing,not_click,,29,72,no,no,fortnightly,55,1
+2472,m,gray,spring,footwear,not_click,,1,83,no,no,annually,30,3
+2474,m,red,winter,clothing,not_open,not_activated,28,98,no,no,quarterly,57,1
+2480,s,olive,fall,clothing,not_open,not_activated,26,98,no,no,every 3 months,37,1
+2484,s,teal,fall,clothing,not_open,not_activated,8,96,no,no,monthly,32,3
+2486,m,beige,spring,clothing,not_click,,37,55,no,no,annually,43,2
+2488,l,violet,spring,footwear,clicked,purchased,16,21,no,no,bi-weekly,57,0
+2491,m,gray,spring,clothing,clicked,purchased,5,78,no,no,every 3 months,52,3
+2493,s,silver,summer,accessories,not_open,not_activated,34,96,no,no,bi-weekly,50,1
+2495,s,peach,winter,footwear,clicked,purchased,26,27,no,no,annually,42,0
+2496,xl,orange,spring,accessories,clicked,only_searched,34,37,no,no,every 3 months,40,2
+2498,m,violet,summer,accessories,clicked,added_to_cart,28,40,no,no,annually,35,2
+2500,l,pink,summer,clothing,clicked,purchased,2,73,no,no,quarterly,52,3
+2501,m,violet,fall,accessories,clicked,purchased,32,84,no,no,bi-weekly,59,1
+2502,m,violet,fall,clothing,not_open,not_activated,30,94,no,no,bi-weekly,49,1
+2503,l,pink,spring,clothing,clicked,only_searched,17,47,no,no,every 3 months,46,0
+2508,m,cyan,fall,footwear,clicked,purchased,32,36,no,no,every 3 months,58,2
+2511,l,purple,winter,outerwear,clicked,only_searched,48,42,no,no,weekly,40,2
+2512,m,cyan,summer,accessories,clicked,only_searched,1,33,no,no,quarterly,54,0
+2513,m,green,summer,clothing,clicked,purchased,20,63,no,no,monthly,50,3
+2515,l,teal,spring,accessories,not_open,not_activated,45,37,no,no,bi-weekly,42,2
+2517,xl,brown,spring,clothing,clicked,only_searched,36,73,no,no,quarterly,46,1
+2520,l,magenta,spring,outerwear,clicked,only_searched,21,90,no,no,quarterly,40,3
+2522,m,magenta,fall,accessories,not_open,not_activated,18,33,no,no,every 3 months,29,0
+2524,s,cyan,spring,accessories,not_click,,21,24,no,no,annually,43,0
+2526,m,purple,winter,clothing,not_click,,20,72,no,no,weekly,39,3
+2527,s,peach,spring,clothing,clicked,added_to_cart,30,28,no,no,bi-weekly,47,2
+2529,s,peach,fall,accessories,not_open,not_activated,31,47,no,no,monthly,52,2
+2532,m,violet,summer,footwear,clicked,added_to_cart,7,28,no,no,every 3 months,43,0
+2533,s,charcoal,summer,clothing,clicked,only_searched,4,86,no,no,weekly,55,3
+2538,m,purple,summer,outerwear,clicked,only_searched,30,49,no,no,fortnightly,44,2
+2540,m,purple,fall,footwear,clicked,purchased,24,73,no,no,bi-weekly,33,3
+2548,m,beige,summer,outerwear,clicked,added_to_cart,16,97,no,no,weekly,47,3
+2549,l,pink,winter,accessories,clicked,added_to_cart,34,63,no,no,monthly,42,1
+2551,xl,peach,fall,footwear,not_click,,30,52,no,no,fortnightly,53,2
+2552,m,maroon,winter,footwear,not_click,,40,32,no,no,annually,29,2
+2555,m,gray,summer,accessories,not_click,,49,68,no,no,bi-weekly,51,1
+2559,m,silver,fall,clothing,clicked,purchased,24,32,no,no,fortnightly,49,0
+2560,s,green,winter,accessories,not_click,,21,71,no,no,every 3 months,48,3
+2561,m,violet,spring,footwear,clicked,added_to_cart,17,62,no,no,bi-weekly,58,3
+2562,l,magenta,spring,clothing,not_click,,22,20,no,no,quarterly,32,0
+2563,xl,yellow,spring,clothing,clicked,only_searched,27,62,no,no,fortnightly,57,1
+2565,l,indigo,winter,accessories,not_click,,27,90,no,no,weekly,42,1
+2569,xl,green,winter,clothing,not_click,,29,98,no,no,fortnightly,52,1
+2570,m,charcoal,spring,clothing,not_click,,10,75,no,no,bi-weekly,42,3
+2571,xl,olive,spring,footwear,clicked,added_to_cart,12,27,no,no,fortnightly,36,0
+2572,l,black,winter,accessories,not_open,not_activated,48,27,no,no,fortnightly,45,2
+2573,m,silver,fall,clothing,not_open,not_activated,40,42,no,no,quarterly,54,2
+2575,m,brown,summer,accessories,clicked,purchased,26,63,no,no,fortnightly,27,3
+2576,m,silver,fall,clothing,clicked,only_searched,9,96,no,no,annually,53,3
+2579,m,purple,fall,accessories,not_click,,3,48,no,no,quarterly,54,0
+2581,s,turquoise,summer,clothing,clicked,purchased,13,29,no,no,quarterly,43,0
+2585,l,blue,summer,clothing,clicked,only_searched,26,30,no,no,bi-weekly,26,0
+2588,m,purple,winter,accessories,clicked,purchased,29,29,no,no,every 3 months,55,2
+2589,m,peach,summer,accessories,not_click,,38,49,no,no,bi-weekly,44,2
+2590,m,silver,winter,clothing,clicked,purchased,31,53,no,no,annually,52,2
+2592,s,olive,spring,outerwear,clicked,purchased,40,61,no,no,quarterly,40,1
+2594,s,indigo,fall,clothing,not_click,,9,36,no,no,every 3 months,36,0
+2595,l,indigo,fall,clothing,not_open,not_activated,25,81,no,no,every 3 months,59,1
+2605,m,beige,spring,clothing,clicked,only_searched,6,54,no,no,weekly,47,0
+2606,m,white,spring,clothing,not_open,not_activated,32,93,no,no,fortnightly,41,1
+2608,xl,teal,spring,footwear,clicked,only_searched,38,36,no,no,every 3 months,41,2
+2616,m,maroon,fall,clothing,clicked,only_searched,6,62,no,no,quarterly,49,3
+2618,s,maroon,spring,clothing,not_click,,29,97,no,no,annually,31,1
+2624,m,gold,fall,footwear,clicked,added_to_cart,38,76,no,no,annually,49,1
+2626,l,cyan,summer,clothing,clicked,only_searched,31,51,no,no,weekly,30,2
+2627,xl,silver,fall,outerwear,not_click,,30,46,no,no,every 3 months,50,2
+2631,s,pink,spring,clothing,not_click,,20,82,no,no,quarterly,29,3
+2632,s,violet,summer,clothing,not_click,,3,44,no,no,weekly,53,0
+2635,s,black,summer,footwear,not_open,not_activated,20,58,no,no,every 3 months,26,0
+2637,s,magenta,winter,outerwear,not_click,,6,40,no,no,annually,41,0
+2641,l,olive,summer,clothing,clicked,added_to_cart,45,75,no,no,bi-weekly,30,1
+2643,l,peach,summer,accessories,clicked,only_searched,48,87,no,no,annually,39,1
+2644,s,silver,spring,accessories,clicked,only_searched,37,41,no,no,monthly,49,2
+2647,s,lavender,summer,clothing,clicked,purchased,4,56,no,no,every 3 months,33,0
+2649,m,gray,spring,clothing,clicked,purchased,14,84,no,no,bi-weekly,51,3
+2652,m,cyan,summer,footwear,clicked,only_searched,27,43,no,no,quarterly,51,2
+2656,m,gray,summer,accessories,not_click,,2,83,no,no,fortnightly,26,3
+2657,l,yellow,winter,clothing,not_open,not_activated,29,76,no,no,fortnightly,52,1
+2658,m,pink,summer,clothing,not_click,,7,81,no,no,fortnightly,52,3
+2659,xl,indigo,summer,accessories,not_click,,39,47,no,no,monthly,52,2
+2660,l,gray,summer,footwear,not_open,not_activated,46,35,no,no,fortnightly,35,2
+2664,l,silver,fall,footwear,clicked,only_searched,23,52,no,no,annually,46,0
+2667,s,brown,winter,footwear,not_click,,14,95,no,no,fortnightly,49,3
+2668,m,orange,summer,footwear,clicked,purchased,31,47,no,no,fortnightly,48,2
+2670,l,teal,spring,accessories,clicked,only_searched,31,28,no,no,weekly,39,2
+2671,m,yellow,fall,accessories,not_click,,26,44,no,no,bi-weekly,30,2
+2672,xl,gray,winter,footwear,clicked,only_searched,41,64,no,no,every 3 months,37,1
+2673,m,maroon,spring,footwear,clicked,purchased,13,28,no,no,annually,56,0
+2677,m,maroon,spring,accessories,clicked,purchased,3,77,no,no,fortnightly,43,3
+2679,m,magenta,spring,accessories,not_open,not_activated,34,91,no,no,bi-weekly,33,1
+2680,s,yellow,spring,clothing,not_open,not_activated,7,68,no,no,quarterly,53,3
+2681,l,indigo,fall,clothing,not_click,,21,37,no,no,annually,44,0
+2683,l,maroon,winter,footwear,clicked,added_to_cart,5,65,no,no,every 3 months,59,3
+2686,m,gray,winter,footwear,clicked,only_searched,49,25,no,no,quarterly,56,2
+2690,m,orange,fall,clothing,not_click,,47,35,no,no,quarterly,29,2
+2691,l,yellow,summer,accessories,clicked,purchased,18,32,no,no,weekly,44,0
+2692,l,blue,winter,clothing,not_open,not_activated,48,25,no,no,monthly,43,2
+2693,xl,violet,spring,footwear,clicked,only_searched,18,90,no,no,every 3 months,40,3
+2694,l,lavender,summer,footwear,clicked,purchased,46,70,no,no,quarterly,55,1
+2697,m,white,spring,outerwear,not_click,,12,20,no,no,monthly,57,0
+2698,l,red,winter,outerwear,clicked,only_searched,36,52,no,no,quarterly,42,2
+2699,m,magenta,summer,clothing,not_open,not_activated,34,57,no,no,quarterly,55,2
+2702,l,silver,summer,clothing,clicked,only_searched,18,30,no,no,fortnightly,49,0
+2704,xl,olive,winter,accessories,not_click,,34,42,no,no,weekly,56,2
+2715,s,olive,winter,clothing,clicked,only_searched,16,45,no,no,bi-weekly,53,0
+2717,l,black,spring,footwear,not_click,,21,40,no,no,weekly,47,0
+2721,m,peach,spring,accessories,clicked,only_searched,45,52,no,no,quarterly,55,2
+2724,xl,brown,summer,footwear,clicked,purchased,3,49,no,no,every 3 months,54,0
+2725,m,brown,spring,footwear,clicked,only_searched,11,91,no,no,fortnightly,52,3
+2728,l,charcoal,winter,clothing,clicked,purchased,47,87,no,no,fortnightly,40,1
+2729,m,pink,winter,clothing,not_click,,17,28,no,no,weekly,26,0
+2730,s,violet,summer,accessories,not_click,,32,71,no,no,monthly,31,1
+2732,m,red,summer,accessories,clicked,only_searched,44,33,no,no,quarterly,52,2
+2734,m,magenta,summer,accessories,not_open,not_activated,46,83,no,no,annually,31,1
+2736,m,yellow,spring,clothing,not_open,not_activated,2,29,no,no,bi-weekly,46,0
+2737,m,pink,spring,clothing,not_click,,45,25,no,no,annually,44,2
+2738,s,indigo,spring,accessories,clicked,purchased,35,76,no,no,every 3 months,57,1
+2739,m,charcoal,summer,footwear,clicked,purchased,39,81,no,no,every 3 months,50,1
+2743,m,black,spring,footwear,clicked,purchased,47,86,no,no,annually,27,1
+2747,m,orange,fall,clothing,not_open,not_activated,21,25,no,no,every 3 months,39,0
+2751,l,pink,spring,footwear,not_open,not_activated,26,66,no,no,every 3 months,51,1
+2752,s,indigo,fall,clothing,not_click,,50,52,no,no,monthly,27,2
+2753,s,peach,winter,clothing,clicked,added_to_cart,30,64,no,no,bi-weekly,48,1
+2755,l,gold,summer,accessories,clicked,purchased,21,61,no,no,bi-weekly,59,3
+2756,m,indigo,winter,accessories,not_open,not_activated,18,97,no,no,annually,59,3
+2758,xl,brown,fall,accessories,clicked,only_searched,11,98,no,no,monthly,39,3
+2759,m,purple,summer,clothing,clicked,added_to_cart,8,98,no,no,bi-weekly,32,3
+2762,m,purple,fall,footwear,not_click,,3,82,no,no,every 3 months,31,3
+2768,m,green,spring,clothing,not_click,,31,95,no,no,monthly,31,1
+2770,l,lavender,fall,clothing,not_open,not_activated,13,89,no,no,weekly,32,3
+2771,s,blue,fall,footwear,not_open,not_activated,22,44,no,no,quarterly,50,0
+2772,s,beige,summer,outerwear,clicked,purchased,12,52,no,no,fortnightly,58,0
+2774,s,maroon,spring,clothing,clicked,added_to_cart,45,98,no,no,quarterly,39,1
+2775,l,yellow,fall,footwear,clicked,purchased,42,40,no,no,quarterly,56,2
+2776,l,red,fall,clothing,not_click,,16,25,no,no,weekly,37,0
+2777,l,green,fall,accessories,clicked,added_to_cart,6,62,no,no,annually,46,3
+2778,m,magenta,fall,clothing,clicked,only_searched,28,24,no,no,every 3 months,52,2
+2781,m,charcoal,winter,footwear,not_open,not_activated,29,70,no,no,fortnightly,33,1
+2783,s,cyan,spring,accessories,clicked,only_searched,30,34,no,no,annually,41,2
+2787,m,violet,spring,accessories,not_open,not_activated,41,51,no,no,every 3 months,54,2
+2788,xl,pink,spring,footwear,not_click,,4,79,no,no,fortnightly,36,3
+2792,m,yellow,fall,accessories,clicked,only_searched,14,60,no,no,fortnightly,43,3
+2793,l,violet,winter,clothing,clicked,only_searched,11,44,no,no,weekly,54,0
+2794,m,silver,spring,footwear,clicked,added_to_cart,27,57,no,no,bi-weekly,37,2
+2795,m,gold,fall,outerwear,clicked,purchased,7,24,no,no,fortnightly,33,0
+2797,m,red,winter,outerwear,not_open,not_activated,21,73,no,no,annually,55,3
+2799,xl,red,winter,clothing,not_click,,37,20,no,no,weekly,52,2
+2807,l,purple,spring,clothing,clicked,purchased,50,39,no,no,annually,45,2
+2808,m,charcoal,spring,clothing,clicked,purchased,10,100,no,no,fortnightly,56,3
+2809,m,beige,spring,clothing,not_open,not_activated,45,62,no,no,every 3 months,49,1
+2811,m,purple,summer,clothing,clicked,purchased,10,31,no,no,fortnightly,27,0
+2814,s,maroon,summer,clothing,not_open,not_activated,39,50,no,no,quarterly,45,2
+2815,l,gold,winter,clothing,not_open,not_activated,14,32,no,no,monthly,31,0
+2819,m,turquoise,fall,clothing,clicked,only_searched,12,73,no,no,annually,46,3
+2821,l,yellow,summer,accessories,clicked,purchased,5,89,no,no,bi-weekly,26,3
+2824,m,olive,summer,clothing,not_open,not_activated,47,63,no,no,bi-weekly,26,1
+2827,l,brown,fall,accessories,clicked,only_searched,23,43,no,no,annually,32,0
+2830,xl,teal,fall,accessories,clicked,added_to_cart,47,67,no,no,weekly,56,1
+2832,l,pink,winter,clothing,not_click,,4,53,no,no,weekly,34,0
+2835,m,indigo,fall,outerwear,clicked,only_searched,17,43,no,no,weekly,39,0
+2836,s,pink,winter,clothing,clicked,added_to_cart,7,84,no,no,annually,33,3
+2837,m,charcoal,winter,clothing,clicked,purchased,21,50,no,no,bi-weekly,51,0
+2839,m,blue,fall,outerwear,clicked,only_searched,2,50,no,no,weekly,51,0
+2843,l,green,fall,outerwear,clicked,only_searched,48,100,no,no,quarterly,28,1
+2844,m,white,summer,clothing,not_click,,41,26,no,no,weekly,51,2
+2846,l,lavender,summer,accessories,clicked,only_searched,39,77,no,no,every 3 months,26,1
+2847,xl,black,fall,clothing,clicked,purchased,15,36,no,no,bi-weekly,50,0
+2850,m,gold,spring,outerwear,clicked,only_searched,27,25,no,no,bi-weekly,56,2
+2851,m,silver,spring,clothing,not_click,,36,79,no,no,annually,57,1
+2852,l,teal,summer,clothing,not_click,,42,73,no,no,monthly,58,1
+2853,m,magenta,spring,accessories,not_open,not_activated,30,71,no,no,weekly,40,1
+2854,m,magenta,winter,accessories,clicked,purchased,9,48,no,no,weekly,37,0
+2856,m,maroon,winter,clothing,clicked,added_to_cart,33,38,no,no,quarterly,29,2
+2858,s,maroon,spring,clothing,clicked,only_searched,35,93,no,no,monthly,44,1
+2859,l,teal,summer,clothing,clicked,only_searched,46,87,no,no,monthly,34,1
+2861,m,gold,spring,clothing,not_click,,49,38,no,no,weekly,28,2
+2864,m,yellow,fall,clothing,clicked,purchased,18,56,no,no,monthly,37,0
+2865,s,maroon,fall,clothing,clicked,purchased,31,43,no,no,weekly,58,2
+2866,m,silver,fall,clothing,clicked,added_to_cart,27,97,no,no,fortnightly,28,1
+2867,s,violet,summer,clothing,clicked,purchased,19,75,no,no,annually,54,3
+2870,m,white,summer,clothing,clicked,added_to_cart,16,58,no,no,weekly,57,0
+2871,m,blue,winter,accessories,clicked,purchased,49,34,no,no,every 3 months,47,2
+2874,m,teal,spring,clothing,clicked,purchased,8,40,no,no,monthly,44,0
+2875,l,silver,summer,clothing,not_click,,2,29,no,no,annually,36,0
+2878,m,silver,summer,clothing,not_click,,34,46,no,no,monthly,32,2
+2882,m,cyan,winter,accessories,clicked,added_to_cart,6,90,no,no,annually,38,3
+2883,l,gold,winter,clothing,clicked,only_searched,23,51,no,no,bi-weekly,59,0
+2885,m,purple,summer,footwear,clicked,purchased,47,50,no,no,every 3 months,55,2
+2887,l,blue,spring,accessories,not_click,,29,33,no,no,weekly,42,2
+2891,m,violet,winter,clothing,clicked,only_searched,23,55,no,no,monthly,39,0
+2892,xl,black,winter,clothing,clicked,added_to_cart,10,73,no,no,monthly,47,3
+2900,m,gold,spring,footwear,not_click,,22,64,no,no,fortnightly,50,3
+2901,xl,violet,winter,clothing,clicked,only_searched,23,67,no,no,bi-weekly,41,3
+2903,s,orange,spring,footwear,not_click,,19,32,no,no,bi-weekly,27,0
+2904,s,teal,spring,accessories,clicked,only_searched,24,39,no,no,every 3 months,38,0
+2905,m,gray,spring,footwear,not_click,,43,41,no,no,monthly,41,2
+2906,l,black,winter,accessories,not_open,not_activated,14,53,no,no,fortnightly,58,0
+2907,m,indigo,spring,outerwear,clicked,only_searched,7,27,no,no,annually,58,0
+2909,m,beige,winter,clothing,not_click,,15,87,no,no,every 3 months,43,3
+2911,m,blue,summer,accessories,not_open,not_activated,41,32,no,no,monthly,32,2
+2912,xl,orange,fall,clothing,not_click,,34,38,no,no,quarterly,28,2
+2913,m,yellow,winter,footwear,not_open,not_activated,27,37,no,no,bi-weekly,48,2
+2915,m,yellow,fall,clothing,clicked,only_searched,1,72,no,no,bi-weekly,45,3
+2918,xl,white,winter,clothing,not_open,not_activated,50,45,no,no,annually,58,2
+2924,m,magenta,spring,clothing,clicked,added_to_cart,12,70,no,no,quarterly,28,3
+2925,l,indigo,winter,clothing,not_open,not_activated,37,64,no,no,every 3 months,47,1
+2928,m,black,summer,clothing,clicked,only_searched,15,24,no,no,bi-weekly,45,0
+2929,l,yellow,spring,accessories,clicked,only_searched,17,80,no,no,weekly,40,3
+2930,xl,white,winter,clothing,clicked,purchased,42,53,no,no,fortnightly,31,2
+2931,m,orange,spring,clothing,not_click,,14,50,no,no,monthly,38,0
+2932,m,magenta,fall,accessories,not_click,,49,31,no,no,bi-weekly,36,2
+2934,m,brown,summer,accessories,clicked,only_searched,28,52,no,no,monthly,27,2
+2936,xl,gray,spring,footwear,clicked,added_to_cart,11,27,no,no,weekly,58,0
+2938,m,white,spring,accessories,not_click,,15,39,no,no,weekly,28,0
+2943,m,brown,summer,clothing,clicked,only_searched,37,63,no,no,weekly,54,1
+2944,m,orange,spring,clothing,not_click,,37,44,no,no,monthly,29,2
+2945,xl,cyan,summer,footwear,not_click,,4,95,no,no,every 3 months,50,3
+2946,m,charcoal,summer,accessories,clicked,only_searched,1,49,no,no,every 3 months,32,0
+2947,l,purple,spring,clothing,not_open,not_activated,29,77,no,no,quarterly,38,1
+2948,l,peach,spring,accessories,clicked,only_searched,50,63,no,no,annually,52,1
+2952,l,maroon,fall,accessories,not_click,,14,99,no,no,weekly,47,3
+2953,m,peach,spring,accessories,clicked,added_to_cart,5,24,no,no,monthly,50,0
+2954,m,silver,summer,clothing,not_click,,11,82,no,no,annually,45,3
+2955,m,indigo,winter,clothing,clicked,added_to_cart,15,28,no,no,annually,33,0
+2956,m,silver,winter,footwear,not_click,,46,67,no,no,annually,42,1
+2957,m,olive,fall,clothing,clicked,added_to_cart,30,88,no,no,monthly,52,1
+2959,m,black,summer,clothing,clicked,only_searched,28,100,no,no,monthly,55,1
+2961,s,olive,spring,outerwear,not_open,not_activated,47,48,no,no,weekly,57,2
+2962,s,gold,fall,clothing,not_open,not_activated,21,43,no,no,bi-weekly,33,0
+2963,l,pink,fall,clothing,not_click,,42,40,no,no,every 3 months,57,2
+2964,m,brown,spring,footwear,clicked,purchased,28,97,no,no,weekly,52,1
+2965,s,white,fall,outerwear,clicked,purchased,13,25,no,no,fortnightly,44,0
+2966,m,blue,summer,accessories,not_click,,25,45,no,no,fortnightly,48,2
+2967,l,orange,fall,footwear,not_click,,38,49,no,no,every 3 months,52,2
+2969,s,gray,fall,clothing,not_open,not_activated,25,48,no,no,every 3 months,26,0
+2970,s,blue,fall,accessories,clicked,only_searched,20,62,no,no,every 3 months,36,3
+2972,l,yellow,fall,accessories,not_click,,9,100,no,no,every 3 months,30,3
+2977,m,silver,summer,outerwear,clicked,only_searched,28,97,no,no,fortnightly,30,1
+2978,l,gold,winter,clothing,not_open,not_activated,20,47,no,no,annually,38,0
+2979,s,cyan,spring,clothing,clicked,only_searched,49,56,no,no,fortnightly,53,2
+2980,l,olive,fall,clothing,not_click,,14,91,no,no,weekly,31,3
+2985,l,red,spring,accessories,not_open,not_activated,36,32,no,no,bi-weekly,45,2
+2986,s,teal,summer,accessories,not_click,,21,36,no,no,bi-weekly,46,0
+2990,xl,teal,summer,accessories,clicked,only_searched,6,20,no,no,weekly,46,0
+2993,m,charcoal,spring,clothing,clicked,only_searched,25,64,no,no,weekly,41,3
+2994,l,indigo,spring,outerwear,not_click,,18,21,no,no,bi-weekly,32,0
+2996,m,orange,summer,clothing,not_click,,42,96,no,no,bi-weekly,29,1
+3000,s,charcoal,winter,accessories,clicked,purchased,10,48,no,no,monthly,31,0
+3002,l,charcoal,summer,outerwear,clicked,added_to_cart,28,29,no,no,quarterly,29,2
+3004,m,brown,fall,clothing,not_click,,13,53,no,no,every 3 months,51,0
+3005,m,lavender,winter,clothing,clicked,only_searched,23,79,no,no,fortnightly,45,3
+3007,m,olive,summer,clothing,not_open,not_activated,17,99,no,no,bi-weekly,37,3
+3009,m,gold,winter,footwear,not_click,,19,86,no,no,weekly,39,3
+3013,m,teal,fall,accessories,clicked,added_to_cart,16,65,no,no,annually,42,3
+3014,l,peach,summer,clothing,not_click,,13,55,no,no,monthly,41,0
+3017,l,lavender,summer,clothing,clicked,only_searched,31,26,no,no,quarterly,30,2
+3018,s,purple,summer,accessories,clicked,purchased,24,71,no,no,bi-weekly,58,3
+3019,m,green,summer,footwear,clicked,only_searched,21,41,no,no,bi-weekly,43,0
+3024,m,brown,summer,accessories,not_click,,4,31,no,no,quarterly,50,0
+3026,xl,green,summer,footwear,not_click,,7,60,no,no,monthly,40,3
+3027,l,magenta,fall,clothing,not_click,,6,70,no,no,annually,55,3
+3031,xl,purple,spring,footwear,clicked,only_searched,23,24,no,no,weekly,43,0
+3035,l,peach,spring,footwear,not_click,,25,37,no,no,quarterly,51,0
+3037,s,violet,spring,clothing,clicked,added_to_cart,7,58,no,no,fortnightly,50,0
+3040,l,blue,spring,clothing,clicked,purchased,31,48,no,no,bi-weekly,59,2
+3042,m,orange,winter,accessories,not_click,,27,79,no,no,monthly,48,1
+3043,l,turquoise,winter,outerwear,clicked,only_searched,14,27,no,no,every 3 months,53,0
+3044,s,peach,fall,accessories,clicked,added_to_cart,17,98,no,no,monthly,45,3
+3046,l,black,winter,clothing,not_open,not_activated,4,37,no,no,bi-weekly,42,0
+3050,l,red,summer,accessories,clicked,purchased,41,60,no,no,bi-weekly,40,2
+3052,l,gold,summer,accessories,clicked,only_searched,49,64,no,no,every 3 months,44,1
+3054,l,brown,winter,footwear,clicked,purchased,22,91,no,no,monthly,32,3
+3056,m,violet,fall,footwear,clicked,only_searched,5,22,no,no,bi-weekly,27,0
+3059,s,orange,winter,accessories,not_click,,3,74,no,no,fortnightly,41,3
+3060,l,maroon,spring,clothing,not_open,not_activated,42,71,no,no,quarterly,46,1
+3061,s,charcoal,summer,outerwear,clicked,purchased,1,80,no,no,monthly,47,3
+3062,l,olive,fall,clothing,clicked,only_searched,20,59,no,no,every 3 months,33,3
+3063,l,green,fall,accessories,clicked,purchased,39,96,no,no,monthly,51,1
+3067,l,teal,summer,clothing,clicked,added_to_cart,13,48,no,no,every 3 months,58,0
+3071,xl,red,fall,footwear,not_click,,43,26,no,no,bi-weekly,52,2
+3073,l,peach,spring,accessories,clicked,added_to_cart,46,98,no,no,quarterly,26,1
+3074,l,white,winter,clothing,not_click,,7,63,no,no,bi-weekly,58,3
+3075,l,maroon,winter,footwear,clicked,added_to_cart,34,55,no,no,fortnightly,26,2
+3076,xl,beige,winter,clothing,not_click,,21,90,no,no,every 3 months,54,3
+3079,m,blue,spring,accessories,clicked,added_to_cart,24,95,no,no,bi-weekly,32,1
+3080,m,maroon,fall,accessories,clicked,only_searched,4,31,no,no,annually,48,0
+3083,m,maroon,spring,clothing,not_open,not_activated,20,99,no,no,annually,56,3
+3085,s,indigo,spring,accessories,clicked,purchased,43,37,no,no,monthly,46,2
+3087,m,lavender,summer,accessories,not_click,,26,73,no,no,every 3 months,47,1
+3089,m,teal,spring,clothing,not_click,,35,64,no,no,quarterly,34,1
+3091,m,peach,summer,clothing,not_click,,15,36,no,no,quarterly,29,0
+3094,l,red,summer,clothing,clicked,purchased,17,63,no,no,every 3 months,29,3
+3098,m,silver,fall,footwear,clicked,purchased,39,33,no,no,quarterly,48,2
+3101,l,purple,winter,accessories,clicked,purchased,3,85,no,no,weekly,50,3
+3102,s,brown,summer,accessories,clicked,purchased,9,82,no,no,fortnightly,32,3
+3103,m,green,summer,outerwear,not_click,,29,85,no,no,bi-weekly,51,1
+3104,s,peach,winter,clothing,not_click,,42,37,no,no,weekly,27,2
+3105,s,turquoise,summer,clothing,not_click,,41,56,no,no,fortnightly,43,2
+3106,m,olive,fall,clothing,not_click,,17,33,no,no,monthly,48,0
+3109,m,purple,fall,clothing,not_click,,7,69,no,no,monthly,50,3
+3114,l,green,summer,clothing,clicked,only_searched,2,93,no,no,weekly,46,3
+3116,m,charcoal,fall,accessories,not_click,,9,53,no,no,bi-weekly,26,0
+3117,l,gray,spring,outerwear,clicked,added_to_cart,1,66,no,no,weekly,50,3
+3118,m,olive,fall,clothing,clicked,only_searched,4,50,no,no,bi-weekly,43,0
+3121,m,magenta,fall,clothing,clicked,only_searched,32,76,no,no,fortnightly,46,1
+3124,xl,red,fall,accessories,clicked,purchased,40,77,no,no,bi-weekly,57,1
+3125,m,peach,summer,accessories,clicked,added_to_cart,4,51,no,no,every 3 months,57,0
+3126,l,lavender,spring,outerwear,clicked,purchased,3,26,no,no,quarterly,33,0
+3127,l,lavender,winter,accessories,not_click,,28,76,no,no,bi-weekly,57,1
+3128,m,beige,winter,accessories,clicked,purchased,43,94,no,no,every 3 months,55,1
+3131,m,yellow,summer,clothing,clicked,only_searched,34,20,no,no,every 3 months,52,2
+3132,m,peach,fall,outerwear,not_click,,11,59,no,no,every 3 months,34,3
+3133,m,yellow,summer,clothing,clicked,added_to_cart,26,97,no,no,quarterly,33,1
+3134,m,orange,spring,clothing,clicked,added_to_cart,29,68,no,no,bi-weekly,58,1
+3135,l,gray,spring,footwear,not_click,,47,66,no,no,weekly,35,1
+3137,m,gray,fall,clothing,clicked,purchased,29,32,no,no,bi-weekly,58,2
+3138,m,turquoise,spring,outerwear,clicked,only_searched,14,44,no,no,monthly,34,0
+3140,m,olive,winter,accessories,not_click,,4,85,no,no,weekly,35,3
+3141,xl,peach,summer,accessories,clicked,only_searched,37,44,no,no,weekly,34,2
+3142,s,peach,winter,accessories,not_click,,47,30,no,no,bi-weekly,36,2
+3146,xl,purple,spring,accessories,clicked,only_searched,16,29,no,no,fortnightly,57,0
+3151,m,peach,spring,clothing,not_click,,7,25,no,no,bi-weekly,55,0
+3152,l,orange,fall,clothing,clicked,purchased,47,64,no,no,quarterly,52,1
+3153,m,red,fall,accessories,not_click,,17,90,no,no,monthly,49,3
+3161,xl,turquoise,fall,accessories,clicked,purchased,37,87,no,no,fortnightly,28,1
+3165,l,silver,winter,clothing,clicked,only_searched,16,32,no,no,annually,40,0
+3166,m,lavender,spring,outerwear,not_click,,38,92,no,no,every 3 months,49,1
+3169,m,orange,spring,clothing,clicked,purchased,14,24,no,no,fortnightly,31,0
+3170,m,white,fall,clothing,not_click,,3,59,no,no,weekly,35,3
+3173,m,olive,fall,clothing,clicked,purchased,30,52,no,no,bi-weekly,57,2
+3175,l,orange,winter,clothing,not_open,not_activated,35,52,no,no,monthly,45,2
+3176,m,maroon,fall,clothing,not_click,,26,42,no,no,every 3 months,35,2
+3177,xl,turquoise,spring,footwear,not_open,not_activated,39,37,no,no,monthly,36,2
+3178,l,beige,fall,accessories,clicked,purchased,31,52,no,no,monthly,55,2
+3180,m,olive,spring,clothing,clicked,added_to_cart,12,88,no,no,bi-weekly,57,3
+3182,m,charcoal,summer,outerwear,clicked,only_searched,27,51,no,no,every 3 months,31,2
+3183,l,green,fall,accessories,clicked,only_searched,4,97,no,no,annually,50,3
+3186,l,gold,fall,clothing,clicked,purchased,6,71,no,no,annually,52,3
+3187,s,cyan,winter,accessories,not_click,,43,93,no,no,annually,38,1
+3189,m,lavender,winter,clothing,not_click,,39,59,no,no,monthly,42,2
+3195,l,gold,summer,footwear,not_open,not_activated,10,52,no,no,bi-weekly,43,0
+3198,m,teal,spring,clothing,clicked,purchased,29,71,no,no,every 3 months,27,1
+3202,s,indigo,fall,clothing,not_click,,34,38,no,no,monthly,46,2
+3205,xl,lavender,fall,outerwear,not_click,,23,92,no,no,bi-weekly,57,3
+3207,m,brown,winter,footwear,not_click,,49,52,no,no,monthly,36,2
+3212,l,turquoise,winter,clothing,clicked,only_searched,12,65,no,no,monthly,53,3
+3213,m,indigo,winter,footwear,not_click,,21,22,no,no,weekly,27,0
+3215,m,yellow,spring,clothing,not_click,,6,78,no,no,annually,53,3
+3219,m,teal,fall,clothing,not_open,not_activated,49,34,no,no,monthly,37,2
+3220,l,white,summer,outerwear,clicked,added_to_cart,39,40,no,no,weekly,57,2
+3221,m,blue,fall,accessories,clicked,only_searched,16,29,no,no,monthly,38,0
+3223,s,maroon,fall,accessories,not_click,,22,84,no,no,quarterly,45,3
+3226,m,pink,fall,clothing,not_click,,31,98,no,no,weekly,53,1
+3227,xl,beige,spring,footwear,not_open,not_activated,38,71,no,no,fortnightly,57,1
+3228,xl,white,fall,accessories,clicked,purchased,42,69,no,no,quarterly,28,1
+3229,m,yellow,spring,accessories,clicked,only_searched,27,95,no,no,annually,37,1
+3230,m,teal,fall,clothing,not_click,,24,67,no,no,monthly,54,3
+3231,m,olive,summer,footwear,not_click,,38,49,no,no,annually,49,2
+3234,m,lavender,fall,accessories,clicked,added_to_cart,11,74,no,no,bi-weekly,45,3
+3236,m,green,summer,accessories,clicked,only_searched,18,68,no,no,monthly,27,3
+3240,m,charcoal,fall,accessories,clicked,purchased,30,32,no,no,monthly,33,2
+3241,m,violet,fall,footwear,clicked,only_searched,37,37,no,no,monthly,56,2
+3242,m,lavender,summer,accessories,clicked,only_searched,30,58,no,no,quarterly,50,2
+3244,l,black,summer,clothing,clicked,only_searched,11,99,no,no,every 3 months,45,3
+3248,m,teal,summer,accessories,clicked,purchased,12,91,no,no,fortnightly,53,3
+3250,m,pink,summer,accessories,clicked,purchased,32,83,no,no,quarterly,26,1
+3254,m,brown,fall,accessories,clicked,purchased,8,60,no,no,fortnightly,36,3
+3259,m,magenta,spring,footwear,not_open,not_activated,11,51,no,no,bi-weekly,31,0
+3260,xl,indigo,fall,accessories,not_click,,5,95,no,no,every 3 months,57,3
+3261,m,violet,summer,accessories,clicked,purchased,7,36,no,no,annually,39,0
+3262,l,cyan,winter,accessories,clicked,only_searched,50,52,no,no,weekly,48,2
+3263,m,violet,spring,clothing,clicked,only_searched,21,35,no,no,every 3 months,42,0
+3264,s,black,fall,clothing,clicked,only_searched,31,68,no,no,fortnightly,56,1
+3265,s,charcoal,winter,clothing,clicked,added_to_cart,39,50,no,no,bi-weekly,28,2
+3266,m,white,winter,accessories,clicked,added_to_cart,28,100,no,no,fortnightly,40,1
+3267,s,gray,winter,outerwear,clicked,only_searched,33,74,no,no,weekly,49,1
+3268,l,pink,winter,clothing,clicked,added_to_cart,42,45,no,no,quarterly,37,2
+3270,m,blue,winter,clothing,clicked,added_to_cart,25,60,no,no,monthly,27,3
+3271,m,indigo,winter,clothing,clicked,only_searched,48,25,no,no,annually,59,2
+3272,xl,magenta,spring,clothing,not_open,not_activated,30,55,no,no,weekly,35,2
+3273,m,lavender,winter,footwear,not_open,not_activated,34,99,no,no,quarterly,58,1
+3274,s,orange,summer,accessories,not_click,,34,45,no,no,every 3 months,58,2
+3275,m,cyan,spring,clothing,not_click,,14,20,no,no,fortnightly,46,0
+3276,xl,green,summer,clothing,not_open,not_activated,2,88,no,no,weekly,43,3
+3277,m,white,summer,accessories,clicked,only_searched,41,99,no,no,every 3 months,39,1
+3278,m,blue,spring,clothing,not_click,,3,86,no,no,monthly,59,3
+3280,s,red,fall,accessories,not_open,not_activated,1,50,no,no,fortnightly,59,0
+3281,l,red,winter,accessories,clicked,purchased,5,57,no,no,monthly,45,0
+3282,l,gold,winter,clothing,not_click,,41,69,no,no,annually,27,1
+3284,l,purple,spring,outerwear,clicked,purchased,10,24,no,no,every 3 months,47,0
+3286,xl,magenta,fall,accessories,not_click,,11,31,no,no,weekly,58,0
+3287,l,pink,winter,outerwear,not_click,,4,67,no,no,fortnightly,45,3
+3290,m,maroon,summer,accessories,clicked,only_searched,16,50,no,no,every 3 months,31,0
+3291,l,black,spring,outerwear,clicked,only_searched,2,82,no,no,monthly,52,3
+3300,l,teal,spring,clothing,not_click,,18,32,no,no,monthly,45,0
+3301,m,charcoal,spring,accessories,clicked,only_searched,40,80,no,no,bi-weekly,26,1
+3302,xl,charcoal,summer,clothing,clicked,added_to_cart,31,58,no,no,fortnightly,36,2
+3303,xl,beige,winter,clothing,clicked,only_searched,31,82,no,no,bi-weekly,36,1
+3305,xl,orange,fall,accessories,clicked,added_to_cart,36,79,no,no,every 3 months,30,1
+3310,m,blue,summer,accessories,not_click,,19,47,no,no,monthly,48,0
+3311,m,pink,winter,outerwear,not_click,,12,27,no,no,fortnightly,45,0
+3312,l,blue,summer,accessories,not_open,not_activated,18,52,no,no,annually,29,0
+3313,l,black,summer,footwear,clicked,only_searched,45,75,no,no,quarterly,55,1
+3314,xl,black,fall,accessories,clicked,only_searched,45,30,no,no,monthly,55,2
+3316,s,gold,summer,accessories,clicked,purchased,4,68,no,no,every 3 months,48,3
+3317,m,olive,summer,clothing,clicked,only_searched,5,45,no,no,fortnightly,42,0
+3319,m,olive,summer,outerwear,clicked,purchased,15,46,no,no,monthly,45,0
+3323,xl,orange,winter,clothing,not_click,,43,92,no,no,weekly,52,1
+3326,m,maroon,fall,footwear,not_click,,16,97,no,no,monthly,29,3
+3328,m,black,spring,clothing,not_open,not_activated,2,64,no,no,quarterly,47,3
+3329,m,violet,spring,footwear,not_open,not_activated,11,35,no,no,bi-weekly,42,0
+3330,m,gray,winter,accessories,clicked,purchased,1,54,no,no,bi-weekly,34,0
+3331,m,black,spring,footwear,not_click,,41,96,no,no,quarterly,38,1
+3332,m,pink,summer,accessories,not_click,,39,58,no,no,quarterly,55,2
+3333,m,silver,summer,clothing,not_click,,1,23,no,no,bi-weekly,27,0
+3334,m,violet,spring,clothing,clicked,purchased,3,35,no,no,monthly,55,0
+3336,xl,cyan,winter,accessories,clicked,purchased,48,94,no,no,quarterly,44,1
+3337,m,brown,fall,clothing,clicked,purchased,24,45,no,no,annually,39,0
+3339,l,white,winter,clothing,not_click,,46,94,no,no,monthly,29,1
+3341,xl,maroon,fall,clothing,clicked,added_to_cart,47,36,no,no,fortnightly,42,2
+3342,xl,olive,summer,outerwear,clicked,purchased,35,50,no,no,monthly,55,2
+3346,m,turquoise,summer,accessories,clicked,only_searched,3,91,no,no,bi-weekly,28,3
+3347,m,black,summer,clothing,clicked,purchased,30,99,no,no,quarterly,30,1
+3350,m,red,fall,accessories,clicked,only_searched,29,79,no,no,quarterly,35,1
+3352,l,cyan,spring,clothing,clicked,only_searched,18,49,no,no,fortnightly,43,0
+3353,m,teal,summer,accessories,not_open,not_activated,7,96,no,no,bi-weekly,55,3
+3354,l,teal,fall,clothing,not_open,not_activated,19,66,no,no,every 3 months,31,3
+3355,m,orange,fall,clothing,clicked,added_to_cart,15,45,no,no,weekly,42,0
+3357,m,silver,summer,clothing,not_open,not_activated,13,48,no,no,bi-weekly,39,0
+3359,m,magenta,fall,clothing,not_click,,26,59,no,no,annually,56,2
+3362,m,silver,spring,footwear,clicked,purchased,47,26,no,no,bi-weekly,47,2
+3363,m,gray,summer,accessories,clicked,only_searched,48,61,no,no,fortnightly,50,1
+3365,m,peach,fall,accessories,not_click,,7,33,no,no,monthly,50,0
+3366,l,teal,fall,clothing,clicked,only_searched,45,58,no,no,every 3 months,43,2
+3369,m,blue,spring,footwear,clicked,only_searched,29,25,no,no,every 3 months,30,2
+3370,m,indigo,winter,clothing,clicked,purchased,42,51,no,no,monthly,47,2
+3371,m,charcoal,summer,accessories,clicked,only_searched,46,31,no,no,fortnightly,30,2
+3372,s,turquoise,winter,clothing,clicked,purchased,28,99,no,no,annually,49,1
+3373,m,maroon,winter,clothing,clicked,purchased,14,25,no,no,every 3 months,56,0
+3376,xl,yellow,fall,footwear,clicked,added_to_cart,8,98,no,no,annually,51,3
+3379,l,gold,fall,clothing,clicked,only_searched,6,75,no,no,quarterly,49,3
+3381,l,blue,summer,clothing,not_click,,6,52,no,no,every 3 months,41,0
+3382,l,turquoise,winter,accessories,not_open,not_activated,27,66,no,no,quarterly,57,1
+3385,l,maroon,summer,clothing,clicked,purchased,9,24,no,no,quarterly,39,0
+3387,m,lavender,fall,clothing,clicked,only_searched,36,62,no,no,quarterly,34,1
+3388,s,pink,spring,clothing,clicked,purchased,2,78,no,no,bi-weekly,53,3
+3389,m,cyan,spring,clothing,not_click,,21,61,no,no,weekly,35,3
+3390,l,maroon,fall,clothing,clicked,only_searched,39,57,no,no,annually,38,2
+3391,s,red,summer,clothing,not_click,,38,70,no,no,annually,32,1
+3392,m,silver,fall,clothing,clicked,added_to_cart,6,57,no,no,every 3 months,47,0
+3393,xl,blue,winter,accessories,clicked,purchased,6,74,no,no,bi-weekly,53,3
+3395,s,yellow,spring,footwear,clicked,purchased,9,98,no,no,annually,31,3
+3396,m,silver,winter,clothing,clicked,purchased,15,43,no,no,every 3 months,44,0
+3397,xl,black,winter,clothing,clicked,purchased,5,37,no,no,quarterly,29,0
+3400,xl,yellow,winter,clothing,not_click,,36,55,no,no,annually,40,2
+3401,m,lavender,fall,accessories,clicked,only_searched,18,51,no,no,fortnightly,39,0
+3402,l,peach,winter,accessories,not_open,not_activated,39,71,no,no,weekly,44,1
+3404,m,olive,summer,footwear,not_open,not_activated,1,65,no,no,bi-weekly,30,3
+3406,m,white,summer,clothing,clicked,only_searched,47,87,no,no,bi-weekly,28,1
+3408,s,purple,spring,clothing,not_click,,20,46,no,no,quarterly,46,0
+3411,l,teal,summer,footwear,clicked,added_to_cart,38,76,no,no,bi-weekly,50,1
+3412,l,gray,winter,footwear,not_click,,45,56,no,no,weekly,29,2
+3414,xl,black,winter,accessories,not_open,not_activated,16,90,no,no,bi-weekly,34,3
+3416,m,gold,fall,clothing,clicked,only_searched,15,68,no,no,annually,38,3
+3418,m,blue,summer,outerwear,clicked,added_to_cart,22,35,no,no,fortnightly,54,0
+3422,m,maroon,summer,footwear,not_open,not_activated,27,30,no,no,weekly,57,2
+3425,l,green,summer,accessories,clicked,only_searched,23,64,no,no,monthly,33,3
+3427,xl,magenta,fall,clothing,not_open,not_activated,31,35,no,no,annually,47,2
+3428,xl,turquoise,winter,clothing,not_click,,44,38,no,no,annually,39,2
+3429,m,gray,fall,accessories,clicked,purchased,20,69,no,no,monthly,32,3
+3430,s,purple,winter,clothing,clicked,only_searched,34,96,no,no,weekly,27,1
+3433,m,gray,summer,footwear,clicked,purchased,46,44,no,no,every 3 months,36,2
+3435,s,orange,summer,clothing,clicked,added_to_cart,6,72,no,no,fortnightly,31,3
+3439,m,violet,fall,clothing,clicked,purchased,33,71,no,no,monthly,26,1
+3440,m,gray,summer,accessories,clicked,added_to_cart,25,93,no,no,quarterly,43,1
+3441,l,magenta,fall,accessories,clicked,only_searched,2,63,no,no,weekly,45,3
+3443,m,violet,spring,clothing,not_click,,12,78,no,no,weekly,28,3
+3444,l,silver,summer,clothing,not_click,,28,24,no,no,bi-weekly,47,2
+3446,m,magenta,fall,accessories,not_click,,3,58,no,no,annually,42,0
+3447,s,purple,spring,footwear,clicked,purchased,20,55,no,no,weekly,51,0
+3454,l,pink,winter,clothing,clicked,purchased,48,60,no,no,bi-weekly,31,2
+3455,s,lavender,fall,accessories,clicked,added_to_cart,15,71,no,no,bi-weekly,55,3
+3457,m,red,fall,clothing,clicked,only_searched,21,53,no,no,monthly,42,0
+3461,m,gold,spring,accessories,clicked,purchased,5,78,no,no,bi-weekly,41,3
+3463,l,olive,spring,clothing,clicked,purchased,34,73,no,no,every 3 months,44,1
+3464,m,yellow,fall,accessories,clicked,purchased,45,27,no,no,fortnightly,27,2
+3467,s,purple,summer,clothing,not_click,,43,42,no,no,annually,49,2
+3469,s,indigo,winter,accessories,not_open,not_activated,36,89,no,no,quarterly,36,1
+3470,l,magenta,fall,clothing,not_click,,12,85,no,no,annually,36,3
+3473,s,white,summer,clothing,clicked,only_searched,15,42,no,no,weekly,31,0
+3475,m,cyan,winter,clothing,not_click,,18,82,no,no,monthly,41,3
+3476,m,orange,spring,footwear,not_open,not_activated,9,88,no,no,quarterly,48,3
+3479,m,magenta,fall,accessories,clicked,only_searched,42,57,no,no,quarterly,36,2
+3480,s,orange,summer,clothing,not_open,not_activated,41,56,no,no,monthly,46,2
+3482,s,maroon,summer,clothing,not_open,not_activated,41,67,no,no,bi-weekly,52,1
+3486,xl,brown,winter,clothing,clicked,purchased,23,21,no,no,fortnightly,50,0
+3487,l,charcoal,winter,clothing,clicked,purchased,6,89,no,no,weekly,51,3
+3490,l,black,summer,clothing,clicked,only_searched,32,26,no,no,every 3 months,48,2
+3494,xl,black,winter,clothing,clicked,added_to_cart,35,82,no,no,weekly,48,1
+3497,m,pink,summer,footwear,clicked,purchased,22,38,no,no,monthly,39,0
+3498,m,red,spring,accessories,clicked,added_to_cart,16,48,no,no,every 3 months,35,0
+3499,m,lavender,summer,footwear,not_click,,2,35,no,no,bi-weekly,47,0
+3501,s,silver,fall,clothing,not_open,not_activated,38,48,no,no,fortnightly,38,2
+3502,m,silver,fall,footwear,clicked,only_searched,43,87,no,no,weekly,53,1
+3503,m,green,fall,accessories,not_click,,26,62,no,no,quarterly,31,3
+3504,m,pink,spring,clothing,not_click,,39,96,no,no,weekly,31,1
+3506,l,red,winter,accessories,clicked,purchased,40,42,no,no,every 3 months,48,2
+3508,s,purple,spring,accessories,not_click,,33,65,no,no,every 3 months,46,1
+3509,m,gray,fall,clothing,clicked,purchased,49,54,no,no,weekly,52,2
+3510,l,brown,winter,clothing,not_click,,43,22,no,no,bi-weekly,50,2
+3514,xl,charcoal,spring,clothing,not_click,,29,74,no,no,fortnightly,30,1
+3517,s,white,summer,footwear,clicked,added_to_cart,38,56,no,no,bi-weekly,34,2
+3518,m,orange,winter,clothing,clicked,purchased,34,69,no,no,every 3 months,29,1
+3519,m,black,spring,clothing,clicked,only_searched,30,97,no,no,quarterly,50,1
+3520,m,white,winter,clothing,clicked,only_searched,14,66,no,no,fortnightly,31,3
+3521,s,brown,spring,accessories,not_click,,33,70,no,no,monthly,41,1
+3524,m,cyan,summer,accessories,clicked,purchased,30,59,no,no,fortnightly,49,2
+3529,l,gray,summer,accessories,not_click,,33,67,no,no,annually,38,1
+3530,s,maroon,winter,clothing,not_open,not_activated,43,20,no,no,weekly,55,2
+3532,xl,violet,winter,footwear,not_open,not_activated,23,52,no,no,quarterly,54,0
+3534,l,yellow,fall,footwear,not_open,not_activated,30,98,no,no,fortnightly,50,1
+3537,l,peach,spring,accessories,not_click,,10,21,no,no,monthly,55,0
+3538,m,gray,spring,accessories,not_click,,40,92,no,no,every 3 months,57,1
+3539,s,white,spring,footwear,clicked,purchased,21,63,no,no,monthly,56,3
+3540,s,green,spring,accessories,not_open,not_activated,17,56,no,no,bi-weekly,29,0
+3542,m,olive,winter,clothing,not_click,,22,66,no,no,annually,59,3
+3544,m,blue,winter,accessories,clicked,only_searched,18,83,no,no,every 3 months,58,3
+3546,m,yellow,spring,footwear,not_click,,22,28,no,no,annually,48,0
+3548,l,magenta,summer,accessories,clicked,only_searched,23,31,no,no,annually,52,0
+3550,m,cyan,summer,clothing,clicked,only_searched,11,34,no,no,fortnightly,44,0
+3555,m,indigo,spring,clothing,clicked,purchased,5,55,no,no,fortnightly,39,0
+3558,m,peach,summer,outerwear,not_click,,1,26,no,no,every 3 months,52,0
+3564,m,green,summer,clothing,clicked,only_searched,8,90,no,no,every 3 months,43,3
+3566,s,gray,spring,accessories,not_click,,35,52,no,no,monthly,49,2
+3567,s,orange,spring,clothing,clicked,only_searched,14,88,no,no,monthly,28,3
+3568,s,silver,summer,accessories,not_click,,26,56,no,no,monthly,32,2
+3574,l,maroon,fall,clothing,clicked,purchased,27,67,no,no,monthly,43,1
+3575,m,cyan,fall,clothing,clicked,added_to_cart,39,70,no,no,quarterly,29,1
+3579,l,olive,winter,footwear,clicked,purchased,22,22,no,no,quarterly,46,0
+3580,l,olive,fall,accessories,clicked,purchased,19,66,no,no,every 3 months,34,3
+3581,m,magenta,summer,clothing,not_open,not_activated,3,83,no,no,bi-weekly,51,3
+3582,m,orange,fall,clothing,not_open,not_activated,50,95,no,no,weekly,26,1
+3584,l,brown,summer,clothing,not_open,not_activated,44,77,no,no,every 3 months,52,1
+3585,l,indigo,fall,footwear,not_open,not_activated,48,52,no,no,monthly,39,2
+3586,xl,gray,winter,accessories,clicked,purchased,4,41,no,no,bi-weekly,39,0
+3587,m,yellow,winter,clothing,not_click,,12,28,no,no,bi-weekly,33,0
+3588,s,violet,summer,clothing,clicked,only_searched,33,90,no,no,annually,33,1
+3590,m,blue,spring,accessories,clicked,only_searched,38,73,no,no,every 3 months,31,1
+3597,m,charcoal,spring,clothing,not_open,not_activated,44,83,no,no,fortnightly,28,1
+3598,m,maroon,summer,accessories,not_open,not_activated,18,71,no,no,quarterly,29,3
+3602,m,indigo,summer,clothing,clicked,only_searched,3,47,no,no,monthly,34,0
+3603,s,magenta,summer,clothing,not_open,not_activated,40,36,no,no,quarterly,58,2
+3604,m,gold,spring,clothing,clicked,purchased,5,51,no,no,weekly,45,0
+3608,l,charcoal,fall,accessories,clicked,purchased,20,93,no,no,bi-weekly,50,3
+3613,m,teal,summer,footwear,not_click,,26,29,no,no,every 3 months,47,2
+3617,l,purple,winter,clothing,clicked,purchased,33,23,no,no,fortnightly,42,2
+3619,m,maroon,fall,accessories,not_click,,47,67,no,no,bi-weekly,28,1
+3620,s,magenta,winter,accessories,clicked,added_to_cart,50,75,no,no,weekly,44,1
+3622,xl,silver,summer,footwear,clicked,only_searched,5,32,no,no,fortnightly,38,0
+3623,m,purple,fall,clothing,clicked,only_searched,12,41,no,no,annually,46,0
+3624,m,violet,winter,accessories,clicked,only_searched,4,89,no,no,weekly,39,3
+3626,l,green,winter,accessories,clicked,added_to_cart,32,99,no,no,weekly,44,1
+3628,m,silver,winter,accessories,not_click,,48,54,no,no,every 3 months,39,2
+3629,l,purple,summer,clothing,not_click,,35,88,no,no,monthly,53,1
+3630,l,lavender,summer,clothing,not_click,,44,43,no,no,fortnightly,52,2
+3633,l,green,spring,footwear,not_open,not_activated,3,73,no,no,quarterly,27,3
+3634,m,orange,spring,accessories,not_click,,1,51,no,no,bi-weekly,39,0
+3637,l,lavender,summer,footwear,clicked,only_searched,36,38,no,no,weekly,50,2
+3638,l,yellow,winter,footwear,clicked,purchased,32,66,no,no,fortnightly,32,1
+3639,m,olive,spring,accessories,clicked,added_to_cart,50,20,no,no,bi-weekly,40,2
+3640,m,brown,summer,outerwear,clicked,purchased,39,44,no,no,annually,26,2
+3641,l,pink,spring,accessories,not_click,,17,31,no,no,monthly,47,0
+3642,m,cyan,fall,outerwear,not_click,,39,45,no,no,every 3 months,51,2
+3643,l,maroon,summer,clothing,clicked,purchased,5,71,no,no,annually,47,3
+3644,xl,magenta,fall,accessories,clicked,only_searched,47,96,no,no,annually,53,1
+3645,m,violet,winter,clothing,clicked,added_to_cart,18,32,no,no,weekly,35,0
+3648,m,gray,winter,clothing,clicked,added_to_cart,12,45,no,no,weekly,47,0
+3649,m,white,winter,clothing,clicked,added_to_cart,45,67,no,no,bi-weekly,31,1
+3651,m,silver,summer,clothing,clicked,added_to_cart,3,60,no,no,annually,51,3
+3653,s,magenta,fall,accessories,clicked,only_searched,23,29,no,no,monthly,27,0
+3657,xl,cyan,spring,outerwear,not_click,,18,67,no,no,monthly,35,3
+3659,m,magenta,fall,clothing,not_click,,18,72,no,no,fortnightly,28,3
+3660,s,gray,fall,footwear,not_click,,46,77,no,no,annually,27,1
+3668,l,cyan,fall,clothing,not_click,,20,45,no,no,monthly,51,0
+3669,xl,magenta,summer,clothing,clicked,purchased,18,71,no,no,annually,59,3
+3671,s,white,winter,footwear,clicked,only_searched,4,50,no,no,every 3 months,31,0
+3673,s,pink,fall,footwear,clicked,added_to_cart,7,81,no,no,monthly,51,3
+3674,m,pink,summer,clothing,not_click,,31,28,no,no,fortnightly,32,2
+3675,m,blue,winter,accessories,clicked,purchased,41,65,no,no,fortnightly,35,1
+3679,s,beige,fall,clothing,clicked,purchased,29,45,no,no,fortnightly,56,2
+3680,m,violet,summer,outerwear,clicked,purchased,5,91,no,no,bi-weekly,53,3
+3684,m,purple,winter,clothing,clicked,purchased,17,77,no,no,fortnightly,30,3
+3686,l,red,summer,clothing,not_open,not_activated,17,42,no,no,bi-weekly,47,0
+3687,m,charcoal,spring,footwear,not_click,,17,70,no,no,bi-weekly,59,3
+3688,l,lavender,summer,clothing,not_click,,28,44,no,no,every 3 months,34,2
+3689,l,white,spring,accessories,clicked,purchased,8,91,no,no,monthly,52,3
+3690,l,red,fall,accessories,clicked,purchased,8,30,no,no,quarterly,47,0
+3693,l,turquoise,spring,outerwear,clicked,purchased,29,34,no,no,fortnightly,59,2
+3695,m,blue,winter,clothing,clicked,only_searched,11,41,no,no,bi-weekly,45,0
+3696,m,white,fall,clothing,not_click,,18,33,no,no,fortnightly,38,0
+3698,l,pink,winter,clothing,clicked,only_searched,39,66,no,no,weekly,55,1
+3700,m,olive,fall,accessories,clicked,added_to_cart,24,55,no,no,weekly,51,2
+3701,xl,charcoal,summer,accessories,not_click,,2,84,no,no,every 3 months,28,3
+3702,m,charcoal,spring,footwear,not_open,not_activated,36,66,no,no,annually,46,1
+3703,m,indigo,spring,footwear,clicked,added_to_cart,36,65,no,no,weekly,58,1
+3706,l,teal,summer,clothing,clicked,purchased,2,65,no,no,annually,28,3
+3709,m,red,fall,clothing,clicked,purchased,41,96,no,no,monthly,40,1
+3713,m,turquoise,spring,clothing,clicked,only_searched,24,72,no,no,quarterly,51,3
+3714,m,peach,spring,footwear,not_click,,31,87,no,no,every 3 months,49,1
+3719,l,turquoise,fall,clothing,not_open,not_activated,44,50,no,no,bi-weekly,36,2
+3724,m,beige,spring,footwear,not_open,not_activated,1,30,no,no,monthly,26,0
+3725,l,green,winter,accessories,clicked,only_searched,18,71,no,no,annually,30,3
+3727,xl,orange,fall,accessories,clicked,only_searched,36,85,no,no,every 3 months,47,1
+3728,m,gold,summer,clothing,clicked,purchased,17,83,no,no,bi-weekly,41,3
+3730,m,teal,spring,footwear,not_click,,50,82,no,no,quarterly,28,1
+3731,m,teal,summer,clothing,not_click,,3,79,no,no,bi-weekly,46,3
+3732,m,lavender,spring,accessories,clicked,only_searched,45,62,no,no,quarterly,54,1
+3735,m,beige,spring,clothing,not_click,,33,88,no,no,every 3 months,38,1
+3736,l,orange,spring,footwear,not_click,,29,44,no,no,annually,38,2
+3737,m,red,spring,clothing,not_click,,2,56,no,no,every 3 months,42,0
+3740,m,olive,fall,accessories,clicked,added_to_cart,43,31,no,no,weekly,38,2
+3741,m,silver,summer,clothing,not_click,,26,96,no,no,bi-weekly,42,1
+3742,m,purple,spring,clothing,clicked,added_to_cart,26,96,no,no,bi-weekly,58,1
+3747,xl,cyan,summer,outerwear,not_click,,49,99,no,no,monthly,53,1
+3748,l,olive,spring,clothing,not_click,,32,53,no,no,bi-weekly,26,2
+3751,m,gold,fall,clothing,clicked,only_searched,5,88,no,no,monthly,42,3
+3752,s,silver,fall,accessories,not_click,,8,97,no,no,every 3 months,36,3
+3755,m,turquoise,summer,footwear,clicked,only_searched,10,41,no,no,every 3 months,46,0
+3760,m,pink,spring,footwear,not_click,,30,61,no,no,quarterly,44,1
+3764,xl,red,winter,clothing,not_click,,38,24,no,no,every 3 months,27,2
+3768,xl,black,summer,clothing,clicked,added_to_cart,10,51,no,no,fortnightly,59,0
+3769,m,yellow,winter,clothing,not_open,not_activated,34,35,no,no,quarterly,50,2
+3770,l,green,summer,accessories,clicked,purchased,31,87,no,no,annually,51,1
+3773,l,yellow,fall,clothing,clicked,purchased,35,26,no,no,annually,44,2
+3776,s,pink,spring,accessories,clicked,added_to_cart,45,63,no,no,quarterly,41,1
+3778,m,maroon,fall,clothing,clicked,added_to_cart,9,65,no,no,weekly,43,3
+3781,l,yellow,fall,footwear,not_open,not_activated,41,57,no,no,quarterly,54,2
+3782,m,pink,winter,footwear,not_click,,40,99,no,no,fortnightly,52,1
+3783,l,orange,spring,outerwear,clicked,purchased,42,45,no,no,fortnightly,40,2
+3784,xl,orange,summer,accessories,not_click,,17,66,no,no,fortnightly,39,3
+3785,m,violet,winter,clothing,clicked,only_searched,4,53,no,no,annually,54,0
+3788,m,pink,fall,clothing,not_open,not_activated,46,80,no,no,every 3 months,37,1
+3789,xl,teal,spring,accessories,clicked,purchased,27,65,no,no,monthly,43,1
+3790,m,magenta,summer,clothing,not_click,,18,75,no,no,every 3 months,56,3
+3791,xl,beige,summer,accessories,not_click,,31,45,no,no,weekly,27,2
+3792,m,gray,spring,accessories,clicked,added_to_cart,1,51,no,no,weekly,40,0
+3793,s,turquoise,summer,accessories,not_click,,2,58,no,no,fortnightly,43,0
+3796,m,charcoal,spring,accessories,clicked,only_searched,3,92,no,no,weekly,45,3
+3805,m,olive,fall,accessories,not_click,,45,77,no,no,annually,37,1
+3809,m,pink,winter,clothing,clicked,purchased,6,28,no,no,bi-weekly,33,0
+3810,s,maroon,winter,footwear,not_click,,28,33,no,no,annually,57,2
+3812,m,maroon,winter,accessories,not_click,,14,30,no,no,monthly,46,0
+3813,m,pink,spring,clothing,clicked,added_to_cart,7,75,no,no,every 3 months,50,3
+3815,m,orange,winter,clothing,not_open,not_activated,26,95,no,no,every 3 months,45,1
+3816,m,brown,fall,accessories,clicked,only_searched,12,44,no,no,fortnightly,32,0
+3817,s,silver,summer,outerwear,clicked,purchased,45,86,no,no,fortnightly,29,1
+3821,m,purple,winter,accessories,clicked,only_searched,34,65,no,no,quarterly,34,1
+3824,m,gold,summer,clothing,clicked,purchased,27,42,no,no,weekly,50,2
+3825,m,olive,summer,clothing,not_open,not_activated,31,26,no,no,quarterly,54,2
+3826,l,green,fall,clothing,not_click,,47,35,no,no,fortnightly,49,2
+3827,m,gray,summer,outerwear,clicked,only_searched,25,31,no,no,annually,50,0
+3829,m,charcoal,spring,clothing,clicked,added_to_cart,8,82,no,no,weekly,42,3
+3836,l,silver,winter,footwear,clicked,added_to_cart,28,58,no,no,bi-weekly,58,2
+3839,l,green,summer,clothing,clicked,only_searched,24,25,no,no,every 3 months,47,0
+3841,m,turquoise,spring,clothing,clicked,only_searched,5,42,no,no,fortnightly,30,0
+3843,l,lavender,winter,outerwear,not_click,,42,84,no,no,monthly,35,1
+3845,s,cyan,fall,clothing,clicked,added_to_cart,40,87,no,no,quarterly,30,1
+3846,m,green,winter,clothing,clicked,purchased,46,52,no,no,annually,58,2
+3847,l,orange,summer,clothing,clicked,purchased,40,58,no,no,every 3 months,57,2
+3850,s,cyan,winter,clothing,clicked,purchased,36,68,no,no,fortnightly,46,1
+3851,l,indigo,summer,accessories,clicked,only_searched,25,74,no,no,every 3 months,27,3
+3852,m,pink,summer,accessories,clicked,purchased,24,83,no,no,annually,50,3
+3855,m,black,spring,clothing,clicked,only_searched,4,20,no,no,annually,57,0
+3857,s,brown,summer,footwear,not_open,not_activated,8,78,no,no,quarterly,39,3
+3858,s,yellow,summer,accessories,not_click,,29,21,no,no,every 3 months,42,2
+3863,l,turquoise,winter,clothing,clicked,purchased,9,49,no,no,monthly,56,0
+3864,m,orange,summer,accessories,not_open,not_activated,28,35,no,no,fortnightly,40,2
+3865,s,blue,winter,clothing,clicked,purchased,1,99,no,no,fortnightly,55,3
+3868,l,lavender,summer,outerwear,clicked,only_searched,28,21,no,no,monthly,46,2
+3870,l,cyan,spring,outerwear,clicked,purchased,28,64,no,no,annually,26,1
+3872,m,black,fall,clothing,clicked,only_searched,20,97,no,no,every 3 months,55,3
+3873,m,green,spring,outerwear,clicked,purchased,3,94,no,no,monthly,41,3
+3880,l,maroon,winter,clothing,not_open,not_activated,6,63,no,no,quarterly,26,3
+3881,m,red,winter,clothing,clicked,purchased,40,20,no,no,monthly,42,2
+3882,l,silver,spring,accessories,not_click,,17,25,no,no,weekly,56,0
+3884,xl,purple,fall,accessories,not_click,,22,38,no,no,fortnightly,34,0
+3886,l,purple,winter,clothing,clicked,only_searched,39,64,no,no,quarterly,49,1
+3887,s,brown,summer,accessories,clicked,added_to_cart,40,92,no,no,quarterly,37,1
+3888,m,charcoal,spring,clothing,not_click,,1,34,no,no,quarterly,40,0
+3889,m,violet,spring,footwear,clicked,added_to_cart,14,69,no,no,bi-weekly,45,3
+3891,xl,green,winter,clothing,not_open,not_activated,33,81,no,no,annually,35,1
+3892,l,peach,winter,clothing,clicked,only_searched,6,30,no,no,quarterly,36,0
+3893,l,indigo,summer,accessories,not_click,,5,86,no,no,fortnightly,35,3
+3898,l,green,spring,accessories,not_click,,24,33,no,no,quarterly,46,0
+3900,m,beige,spring,accessories,clicked,purchased,33,81,no,no,quarterly,52,1
