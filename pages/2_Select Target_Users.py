@@ -8,7 +8,7 @@ from kor.nodes import Object, Text, Number, Bool
 
 # LangChain Models
 from langchain.chat_models import ChatOpenAI
-from langchain.llms import OpenAI
+# from langchain.llms import OpenAI
 
 
 openai_api_key = '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'
