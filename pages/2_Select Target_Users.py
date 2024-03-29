@@ -11,7 +11,7 @@ from langchain.chat_models import ChatOpenAI
 # from langchain.llms import OpenAI
 
 
-openai_api_key = st.secrets["openai_api_key"])
+openai_api_key = st.secrets["OPENAI_API_KEY"])
 
 
 
