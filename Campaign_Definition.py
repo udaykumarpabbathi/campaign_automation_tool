@@ -19,7 +19,7 @@ from kor.nodes import Object, Text, Number
 
 # LangChain Models
 from langchain.chat_models import ChatOpenAI
-from langchain.llms import OpenAI
+# from langchain.llms import OpenAI
 
 ##langchain packages
 from langchain_core.messages import HumanMessage, SystemMessage
