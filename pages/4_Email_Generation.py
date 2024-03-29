@@ -15,7 +15,7 @@ from langchain.llms import OpenAI
 from langchain_core.messages import HumanMessage, SystemMessage
 
 
-openai_api_key = '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'
+openai_api_key = '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'
 
 def get_llm(temperature,max_gen_tokens, selected_model):
     if selected_model == 'GPT 3.5 Turbo':
@@ -52,8 +52,8 @@ def add_logo(logo_path, width, height):
 
 def main():
     icon = Image.open('letter-c.png')
-    st.set_page_config(page_title='CampAI', page_icon=icon, layout='wide')
-    st.title('CampAIgn Automation Tool')
+    st.set_page_config(page_title='IMPACT.ai', page_icon=icon, layout='wide')
+    st.title('IMPACT.ai')
     if 'home_option' not in st.session_state:
         st.session_state['home_option'] = 'initialized'
 

@@ -11,7 +11,7 @@ from langchain.chat_models import ChatOpenAI
 # from langchain.llms import OpenAI
 
 
-openai_api_key = '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'
+openai_api_key = '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'
 
 
 
@@ -143,8 +143,8 @@ def filter_dataset(selected_attributes,data,target_user_dict):
 
 def main():
     icon = Image.open('letter-c.png')
-    st.set_page_config(page_title='CampAI', page_icon=icon, layout='wide')
-    st.title('CampAIgn Automation Tool')
+    st.set_page_config(page_title='IMPACT.ai', page_icon=icon, layout='wide')
+    st.title('IMPACT.ai')
     if 'home_option' not in st.session_state:
         st.session_state['home_option'] = 'initialized'
 

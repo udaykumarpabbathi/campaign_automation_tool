@@ -8,8 +8,8 @@ import re
 
 def main():
     icon = Image.open('letter-c.png')
-    st.set_page_config(page_title='CampAI', page_icon=icon, layout='wide')
-    st.title('CampAIgn Automation Tool')
+    st.set_page_config(page_title='IMPACT.ai', page_icon=icon, layout='wide')
+    st.title('IMPACT.ai')
 
     cluster_data_path='final_cluster_data.csv'
 

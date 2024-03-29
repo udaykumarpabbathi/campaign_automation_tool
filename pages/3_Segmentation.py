@@ -16,7 +16,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import Chroma
 from langchain import PromptTemplate
 
-openai_api_key = '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'
+openai_api_key = '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'
 
 
 
@@ -63,8 +63,8 @@ def generate_cluster_description(llm, PROMPT, db):
 
 def main():
     icon = Image.open('letter-c.png')
-    st.set_page_config(page_title='CampAI', page_icon=icon, layout='wide')
-    st.title('CampAIgn Automation Tool')
+    st.set_page_config(page_title='IMPACT.ai', page_icon=icon, layout='wide')
+    st.title('IMPACT.ai')
 
     cluster_data_path='final_cluster_data.csv'
     n_clusters=4#cluster
