@@ -2,13 +2,13 @@ import streamlit as st
 import os
 
 
-from langchain.chains import RetrievalQA
-from langchain.memory import ConversationBufferMemory
-from langchain.chains import ConversationalRetrievalChain
-from langchain.chains.question_answering import load_qa_chain
-from langchain.embeddings import SentenceTransformerEmbeddings
-from langchain.vectorstores import Chroma
-from streamlit_chat import message
+# from langchain.chains import RetrievalQA
+# from langchain.memory import ConversationBufferMemory
+# from langchain.chains import ConversationalRetrievalChain
+# from langchain.chains.question_answering import load_qa_chain
+# from langchain.embeddings import SentenceTransformerEmbeddings
+# from langchain.vectorstores import Chroma
+# from streamlit_chat import message
 
 
 
