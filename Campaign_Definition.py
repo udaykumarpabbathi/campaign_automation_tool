@@ -31,7 +31,7 @@ from ast import literal_eval
 from pathlib import Path
 
 
-openai_api_key = st.secrets["openai_api_key"]
+openai_api_key = "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"
 
 
 
