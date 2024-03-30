@@ -16,7 +16,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import Chroma
 from langchain import PromptTemplate
 
-openai_api_key = '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'
+openai_api_key = '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'
 
 
 
