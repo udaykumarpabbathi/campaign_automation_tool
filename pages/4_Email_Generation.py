@@ -15,7 +15,7 @@ from langchain.llms import OpenAI
 from langchain_core.messages import HumanMessage, SystemMessage
 
 
-openai_api_key = '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'
+openai_api_key = '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'
 
 def get_llm(temperature,max_gen_tokens, selected_model):
     if selected_model == 'GPT 3.5 Turbo':
