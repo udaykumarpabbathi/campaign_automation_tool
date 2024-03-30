@@ -11,7 +11,7 @@ from langchain.chat_models import ChatOpenAI
 # from langchain.llms import OpenAI
 
 
-openai_api_key = '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'
+openai_api_key = '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'
 
 
 
